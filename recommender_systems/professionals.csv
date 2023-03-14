@@ -1,0 +1,2001 @@
+id,skills,location,certification,education,skill_level,work_preference,experience
+1,physician,Philadelphia,PALS CPR,Master,intermediate,part-time,7
+2,physician,Chicago,CPR PALS,Master,advanced,day shift,30
+3,physician,Los Angeles,BLS NRP ACLS,Master,advanced,day shift,29
+4,physician,Philadelphia,BLS CPR NRP ACLS,Master,advanced,day shift,1
+5,physician,Philadelphia,ACLS PALS CPR NRP,Master,entry-level,full-time,12
+6,physician,Los Angeles,ACLS NRP PALS,Master,intermediate,night shift,25
+7,physician,Philadelphia,BLS ACLS PALS,Master,advanced,full-time,11
+8,physician,Houston,BLS CPR,Master,intermediate,part-time,24
+9,physician,Houston,NRP PALS ACLS,Master,advanced,night shift,15
+10,physician,Philadelphia,PALS CPR ACLS NRP BLS,Master,intermediate,part-time,11
+11,physician,Chicago,PALS BLS,Master,intermediate,full-time,15
+12,physician,New York,PALS ACLS BLS NRP,Master,entry-level,full-time,25
+13,physician,Houston,PALS NRP,Master,entry-level,full-time,23
+14,physician,Philadelphia,NRP,Master,intermediate,part-time,5
+15,physician,Philadelphia,PALS,Master,intermediate,full-time,21
+16,physician,Houston,NRP CPR PALS,Master,intermediate,day shift,24
+17,physician,Houston,PALS NRP ACLS,Master,intermediate,day shift,29
+18,physician,New York,NRP CPR BLS,Master,entry-level,full-time,8
+19,physician,Chicago,PALS ACLS NRP BLS,Master,entry-level,night shift,25
+20,physician,Chicago,BLS CPR PALS,Master,advanced,part-time,24
+21,physician,Houston,NRP CPR PALS ACLS BLS,Master,advanced,day shift,11
+22,physician,Houston,NRP ACLS BLS,Master,entry-level,day shift,2
+23,physician,Philadelphia,NRP ACLS,Master,entry-level,day shift,24
+24,physician,Houston,BLS CPR ACLS,Master,advanced,day shift,27
+25,physician,Houston,ACLS NRP CPR,Master,intermediate,part-time,22
+26,physician,Los Angeles,PALS CPR NRP BLS,Master,intermediate,part-time,8
+27,physician,Los Angeles,NRP,Master,advanced,night shift,24
+28,physician,Houston,CPR ACLS,Master,intermediate,part-time,11
+29,physician,New York,CPR BLS NRP PALS,Master,entry-level,part-time,20
+30,physician,Los Angeles,PALS BLS ACLS CPR,Master,entry-level,full-time,24
+31,physician,New York,PALS CPR,Master,intermediate,day shift,14
+32,physician,Chicago,ACLS BLS CPR PALS,Master,intermediate,part-time,7
+33,physician,New York,NRP BLS ACLS PALS,Master,advanced,full-time,17
+34,physician,Chicago,BLS ACLS,Master,intermediate,night shift,22
+35,physician,Chicago,BLS CPR NRP ACLS,Master,intermediate,night shift,6
+36,physician,Los Angeles,ACLS PALS NRP,Master,entry-level,full-time,20
+37,physician,New York,PALS,Master,intermediate,part-time,28
+38,physician,Los Angeles,BLS CPR NRP,Master,entry-level,day shift,10
+39,physician,Los Angeles,CPR BLS NRP ACLS,Master,advanced,full-time,14
+40,physician,Los Angeles,NRP ACLS CPR,Master,intermediate,full-time,24
+41,physician,Chicago,PALS CPR,Master,intermediate,night shift,16
+42,physician,Chicago,ACLS CPR,Master,intermediate,day shift,12
+43,physician,Los Angeles,BLS CPR PALS ACLS,Master,intermediate,part-time,22
+44,physician,Houston,CPR,Master,entry-level,night shift,11
+45,physician,New York,ACLS BLS CPR,Master,entry-level,day shift,29
+46,physician,New York,PALS BLS NRP CPR ACLS,Master,advanced,full-time,8
+47,physician,Philadelphia,CPR PALS,Master,entry-level,full-time,30
+48,physician,Houston,BLS NRP,Master,intermediate,full-time,6
+49,physician,Houston,CPR,Master,entry-level,night shift,29
+50,physician,Houston,NRP BLS ACLS CPR PALS,Master,intermediate,full-time,19
+51,physician,Houston,BLS CPR,Master,entry-level,day shift,1
+52,physician,Chicago,NRP ACLS BLS CPR,Master,advanced,full-time,28
+53,physician,Chicago,CPR ACLS NRP,Master,intermediate,day shift,23
+54,physician,Los Angeles,CPR PALS ACLS BLS NRP,Master,intermediate,day shift,20
+55,physician,Houston,CPR,Master,entry-level,night shift,24
+56,physician,Chicago,BLS PALS ACLS CPR NRP,Master,intermediate,night shift,4
+57,physician,Los Angeles,BLS NRP PALS,Master,advanced,full-time,18
+58,physician,Los Angeles,CPR,Master,advanced,part-time,1
+59,physician,Philadelphia,PALS ACLS BLS CPR,Master,entry-level,full-time,19
+60,physician,Los Angeles,ACLS CPR PALS NRP,Master,entry-level,day shift,2
+61,physician,Chicago,BLS,Master,entry-level,part-time,12
+62,physician,Philadelphia,NRP,Master,entry-level,part-time,18
+63,physician,Philadelphia,BLS PALS,Master,advanced,night shift,1
+64,physician,New York,CPR BLS PALS NRP,Master,intermediate,day shift,22
+65,physician,Los Angeles,NRP BLS ACLS PALS,Master,advanced,full-time,4
+66,physician,New York,NRP BLS PALS ACLS CPR,Master,entry-level,part-time,15
+67,physician,Philadelphia,CPR ACLS PALS BLS NRP,Master,intermediate,part-time,17
+68,physician,Chicago,ACLS PALS BLS NRP CPR,Master,entry-level,night shift,11
+69,physician,New York,BLS NRP PALS CPR ACLS,Master,advanced,day shift,28
+70,physician,Philadelphia,ACLS PALS,Master,entry-level,part-time,13
+71,physician,New York,ACLS BLS NRP PALS CPR,Master,advanced,day shift,8
+72,physician,New York,BLS,Master,advanced,part-time,19
+73,physician,Los Angeles,PALS BLS NRP,Master,intermediate,night shift,16
+74,physician,Philadelphia,PALS ACLS NRP BLS CPR,Master,entry-level,full-time,6
+75,physician,Houston,PALS CPR ACLS NRP BLS,Master,intermediate,part-time,11
+76,physician,New York,BLS ACLS PALS CPR,Master,entry-level,day shift,14
+77,physician,New York,BLS NRP,Master,advanced,day shift,7
+78,physician,Houston,NRP PALS BLS,Master,advanced,part-time,17
+79,physician,New York,CPR NRP PALS ACLS BLS,Master,intermediate,night shift,10
+80,physician,New York,NRP ACLS PALS CPR,Master,entry-level,day shift,25
+81,physician,Houston,PALS BLS NRP CPR,Master,intermediate,day shift,25
+82,physician,Houston,BLS CPR ACLS NRP,Master,advanced,night shift,27
+83,physician,New York,NRP BLS,Master,entry-level,night shift,7
+84,physician,Philadelphia,NRP BLS ACLS PALS,Master,advanced,night shift,22
+85,physician,Philadelphia,BLS ACLS CPR NRP PALS,Master,advanced,full-time,4
+86,physician,Chicago,CPR BLS ACLS PALS,Master,entry-level,night shift,21
+87,physician,New York,PALS BLS ACLS,Master,entry-level,day shift,21
+88,physician,Houston,NRP PALS ACLS,Master,advanced,part-time,5
+89,physician,Philadelphia,NRP CPR PALS ACLS,Master,intermediate,part-time,15
+90,physician,New York,BLS,Master,entry-level,full-time,9
+91,physician,Los Angeles,ACLS BLS,Master,intermediate,day shift,7
+92,physician,Philadelphia,BLS CPR,Master,entry-level,full-time,4
+93,physician,Philadelphia,PALS ACLS CPR NRP,Master,intermediate,day shift,15
+94,physician,Los Angeles,NRP ACLS,Master,intermediate,day shift,30
+95,physician,Chicago,PALS,Master,intermediate,night shift,25
+96,physician,Los Angeles,CPR NRP,Master,advanced,part-time,21
+97,physician,Houston,NRP PALS ACLS,Master,advanced,night shift,4
+98,physician,Philadelphia,PALS NRP BLS,Master,intermediate,day shift,20
+99,physician,Houston,BLS NRP PALS,Master,intermediate,day shift,21
+100,physician,Chicago,ACLS BLS CPR,Master,intermediate,day shift,27
+101,physician,Los Angeles,PALS,Master,advanced,part-time,23
+102,physician,Houston,ACLS,Master,entry-level,night shift,7
+103,physician,Chicago,ACLS CPR,Master,advanced,day shift,26
+104,physician,Chicago,PALS NRP,Master,intermediate,day shift,9
+105,physician,Houston,BLS ACLS,Master,intermediate,day shift,11
+106,physician,Philadelphia,BLS PALS,Master,advanced,full-time,19
+107,physician,Philadelphia,NRP ACLS,Master,entry-level,night shift,12
+108,physician,Philadelphia,ACLS PALS,Master,advanced,night shift,1
+109,physician,New York,CPR ACLS PALS BLS,Master,advanced,part-time,25
+110,physician,Houston,NRP BLS,Master,entry-level,full-time,2
+111,physician,Chicago,ACLS CPR BLS NRP PALS,Master,entry-level,full-time,27
+112,physician,Houston,CPR,Master,advanced,day shift,5
+113,physician,Philadelphia,CPR PALS ACLS BLS NRP,Master,entry-level,night shift,27
+114,physician,New York,ACLS NRP,Master,advanced,full-time,17
+115,physician,Los Angeles,BLS NRP PALS ACLS CPR,Master,advanced,night shift,4
+116,physician,Chicago,NRP,Master,entry-level,night shift,22
+117,physician,Los Angeles,BLS PALS CPR ACLS NRP,Master,intermediate,day shift,16
+118,physician,Los Angeles,BLS NRP CPR PALS ACLS,Master,advanced,full-time,28
+119,physician,Los Angeles,PALS NRP,Master,advanced,day shift,13
+120,physician,Chicago,NRP PALS ACLS BLS,Master,advanced,day shift,24
+121,physician,Houston,BLS,Master,entry-level,part-time,12
+122,physician,Philadelphia,BLS ACLS NRP CPR PALS,Master,intermediate,part-time,15
+123,physician,New York,ACLS PALS,Master,entry-level,night shift,20
+124,physician,Los Angeles,CPR PALS,Master,intermediate,full-time,4
+125,physician,Los Angeles,BLS PALS,Master,advanced,full-time,4
+126,physician,Los Angeles,NRP ACLS,Master,advanced,full-time,17
+127,physician,New York,ACLS NRP PALS BLS,Master,entry-level,day shift,26
+128,physician,Los Angeles,NRP CPR ACLS,Master,entry-level,day shift,6
+129,physician,Houston,PALS NRP,Master,entry-level,night shift,14
+130,physician,Chicago,BLS CPR NRP PALS,Master,advanced,day shift,29
+131,physician,Chicago,PALS,Master,intermediate,full-time,17
+132,physician,Houston,ACLS PALS CPR,Master,entry-level,night shift,9
+133,physician,Los Angeles,PALS CPR,Master,intermediate,full-time,28
+134,physician,Los Angeles,NRP ACLS CPR PALS BLS,Master,intermediate,full-time,11
+135,physician,Houston,CPR PALS,Master,advanced,day shift,1
+136,physician,New York,BLS CPR NRP PALS,Master,intermediate,day shift,19
+137,physician,Chicago,CPR,Master,intermediate,full-time,15
+138,physician,Los Angeles,NRP CPR BLS ACLS PALS,Master,intermediate,part-time,9
+139,physician,Philadelphia,NRP PALS CPR BLS ACLS,Master,entry-level,night shift,21
+140,physician,Los Angeles,BLS ACLS CPR,Master,entry-level,part-time,27
+141,physician,Chicago,BLS,Master,entry-level,part-time,25
+142,physician,Los Angeles,NRP CPR,Master,intermediate,full-time,8
+143,physician,Houston,ACLS BLS,Master,entry-level,part-time,3
+144,physician,Los Angeles,PALS BLS NRP CPR ACLS,Master,entry-level,part-time,24
+145,physician,Philadelphia,CPR PALS BLS,Master,intermediate,part-time,25
+146,physician,Philadelphia,CPR ACLS,Master,entry-level,part-time,10
+147,physician,Los Angeles,CPR,Master,intermediate,day shift,23
+148,physician,Philadelphia,ACLS PALS,Master,advanced,night shift,10
+149,physician,Los Angeles,CPR NRP PALS ACLS,Master,advanced,part-time,21
+150,physician,Philadelphia,PALS ACLS BLS CPR NRP,Master,entry-level,part-time,15
+151,physician,Philadelphia,NRP BLS ACLS,Master,advanced,day shift,16
+152,physician,Los Angeles,BLS NRP CPR PALS ACLS,Master,advanced,day shift,8
+153,physician,Houston,PALS,Master,entry-level,night shift,17
+154,physician,Los Angeles,BLS NRP CPR PALS ACLS,Master,entry-level,part-time,1
+155,physician,Los Angeles,CPR BLS ACLS,Master,entry-level,part-time,15
+156,physician,Los Angeles,BLS ACLS PALS,Master,advanced,full-time,1
+157,physician,Los Angeles,BLS CPR NRP PALS,Master,advanced,night shift,6
+158,physician,New York,BLS PALS NRP CPR ACLS,Master,advanced,part-time,24
+159,physician,New York,PALS BLS CPR NRP ACLS,Master,intermediate,part-time,22
+160,physician,Philadelphia,BLS,Master,entry-level,full-time,19
+161,physician,Los Angeles,ACLS CPR,Master,advanced,day shift,29
+162,physician,Philadelphia,BLS ACLS NRP PALS,Master,intermediate,night shift,5
+163,physician,Los Angeles,PALS,Master,intermediate,full-time,30
+164,physician,Los Angeles,PALS,Master,intermediate,day shift,19
+165,physician,New York,NRP BLS ACLS,Master,advanced,night shift,16
+166,physician,Houston,PALS NRP,Master,entry-level,day shift,24
+167,physician,Houston,NRP PALS BLS ACLS CPR,Master,entry-level,part-time,3
+168,physician,Chicago,CPR BLS,Master,advanced,full-time,27
+169,physician,Los Angeles,NRP BLS ACLS,Master,entry-level,day shift,22
+170,physician,Los Angeles,BLS NRP,Master,advanced,full-time,16
+171,physician,Houston,NRP,Master,entry-level,night shift,2
+172,physician,Los Angeles,CPR,Master,advanced,night shift,14
+173,physician,Chicago,CPR PALS NRP,Master,entry-level,part-time,13
+174,physician,New York,PALS ACLS CPR NRP BLS,Master,intermediate,day shift,6
+175,physician,Los Angeles,NRP ACLS CPR,Master,entry-level,full-time,21
+176,physician,Los Angeles,NRP,Master,advanced,day shift,25
+177,physician,Houston,ACLS NRP BLS,Master,entry-level,day shift,21
+178,physician,Los Angeles,CPR,Master,entry-level,day shift,24
+179,physician,Chicago,PALS CPR NRP ACLS BLS,Master,advanced,night shift,14
+180,physician,New York,NRP PALS ACLS BLS CPR,Master,entry-level,full-time,20
+181,physician,Houston,NRP ACLS PALS,Master,entry-level,night shift,20
+182,physician,Los Angeles,BLS,Master,advanced,day shift,29
+183,physician,Philadelphia,CPR PALS NRP BLS,Master,intermediate,part-time,9
+184,physician,New York,NRP,Master,entry-level,day shift,2
+185,physician,Los Angeles,CPR NRP,Master,advanced,part-time,2
+186,physician,Houston,ACLS PALS BLS CPR NRP,Master,advanced,full-time,5
+187,physician,New York,CPR ACLS NRP PALS BLS,Master,intermediate,day shift,17
+188,physician,Houston,PALS BLS NRP CPR,Master,entry-level,night shift,14
+189,physician,Houston,PALS NRP,Master,entry-level,night shift,6
+190,physician,Philadelphia,BLS PALS CPR,Master,advanced,part-time,3
+191,physician,Houston,CPR NRP PALS BLS,Master,entry-level,part-time,15
+192,physician,Los Angeles,CPR ACLS,Master,intermediate,night shift,15
+193,physician,Los Angeles,CPR PALS,Master,intermediate,full-time,22
+194,physician,New York,PALS CPR NRP BLS,Master,entry-level,part-time,1
+195,physician,New York,BLS CPR PALS ACLS NRP,Master,intermediate,day shift,9
+196,physician,Chicago,ACLS PALS NRP BLS,Master,intermediate,full-time,27
+197,physician,Houston,ACLS NRP PALS BLS CPR,Master,intermediate,day shift,14
+198,physician,Chicago,BLS CPR PALS NRP,Master,entry-level,day shift,6
+199,physician,Chicago,NRP ACLS,Master,advanced,night shift,8
+200,physician,Los Angeles,CPR,Master,intermediate,full-time,2
+201,physician,Philadelphia,ACLS NRP BLS PALS,Master,intermediate,part-time,19
+202,physician,Houston,ACLS PALS NRP,Master,advanced,part-time,5
+203,physician,Philadelphia,NRP BLS,Master,entry-level,night shift,19
+204,physician,Houston,CPR NRP ACLS BLS PALS,Master,advanced,night shift,1
+205,physician,New York,BLS,Master,entry-level,night shift,20
+206,physician,Philadelphia,PALS,Master,advanced,part-time,14
+207,physician,Philadelphia,BLS NRP CPR ACLS PALS,Master,advanced,night shift,27
+208,physician,Chicago,ACLS PALS CPR NRP,Master,advanced,night shift,12
+209,physician,Los Angeles,BLS,Master,advanced,night shift,19
+210,physician,Chicago,PALS ACLS,Master,advanced,full-time,22
+211,physician,Houston,PALS BLS CPR,Master,entry-level,night shift,30
+212,physician,New York,PALS NRP BLS,Master,advanced,full-time,14
+213,physician,Philadelphia,NRP ACLS PALS,Master,entry-level,night shift,14
+214,physician,New York,BLS ACLS CPR,Master,intermediate,full-time,27
+215,physician,Los Angeles,BLS,Master,advanced,day shift,6
+216,physician,Philadelphia,CPR ACLS PALS NRP,Master,entry-level,part-time,21
+217,physician,Chicago,BLS ACLS NRP,Master,advanced,night shift,2
+218,physician,Chicago,BLS,Master,entry-level,day shift,23
+219,physician,New York,BLS NRP PALS ACLS,Master,intermediate,part-time,6
+220,physician,Chicago,PALS BLS NRP,Master,intermediate,day shift,27
+221,physician,Los Angeles,PALS BLS ACLS CPR NRP,Master,entry-level,night shift,24
+222,physician,Houston,PALS NRP ACLS CPR,Master,intermediate,day shift,19
+223,physician,Philadelphia,PALS CPR ACLS BLS,Master,entry-level,part-time,29
+224,physician,Houston,NRP BLS ACLS CPR,Master,intermediate,full-time,7
+225,physician,New York,NRP PALS ACLS BLS CPR,Master,entry-level,day shift,26
+226,physician,Los Angeles,ACLS PALS CPR BLS,Master,intermediate,full-time,16
+227,physician,Philadelphia,BLS,Master,entry-level,full-time,19
+228,physician,Philadelphia,CPR,Master,advanced,night shift,14
+229,physician,Houston,CPR NRP ACLS BLS,Master,entry-level,night shift,29
+230,physician,New York,BLS PALS,Master,intermediate,day shift,18
+231,physician,New York,ACLS PALS CPR BLS NRP,Master,intermediate,part-time,11
+232,physician,Los Angeles,CPR PALS ACLS NRP BLS,Master,intermediate,day shift,25
+233,physician,Houston,PALS,Master,entry-level,part-time,30
+234,physician,Houston,CPR,Master,intermediate,full-time,6
+235,physician,New York,BLS CPR PALS ACLS,Master,intermediate,day shift,26
+236,physician,New York,CPR BLS PALS NRP ACLS,Master,intermediate,part-time,21
+237,physician,Philadelphia,ACLS NRP BLS CPR,Master,entry-level,full-time,11
+238,physician,Los Angeles,BLS ACLS CPR,Master,entry-level,night shift,25
+239,physician,Los Angeles,PALS ACLS CPR BLS,Master,advanced,part-time,21
+240,physician,New York,ACLS,Master,intermediate,night shift,16
+241,physician,Los Angeles,CPR ACLS,Master,intermediate,day shift,5
+242,physician,Chicago,BLS CPR NRP PALS,Master,advanced,full-time,23
+243,physician,New York,BLS NRP,Master,entry-level,night shift,1
+244,physician,Houston,PALS CPR ACLS NRP,Master,intermediate,day shift,22
+245,physician,New York,CPR ACLS,Master,intermediate,part-time,3
+246,physician,Chicago,BLS ACLS,Master,advanced,part-time,1
+247,physician,Houston,ACLS,Master,entry-level,day shift,4
+248,physician,New York,PALS BLS,Master,intermediate,full-time,26
+249,physician,Los Angeles,ACLS,Master,advanced,night shift,23
+250,physician,Philadelphia,ACLS NRP,Master,advanced,full-time,22
+251,physician,Houston,NRP ACLS BLS CPR,Master,intermediate,night shift,4
+252,physician,Los Angeles,CPR PALS,Master,advanced,day shift,26
+253,physician,New York,ACLS PALS NRP,Master,advanced,night shift,23
+254,physician,Houston,CPR PALS BLS NRP,Master,advanced,part-time,7
+255,physician,New York,NRP CPR BLS ACLS,Master,intermediate,day shift,26
+256,physician,Chicago,BLS CPR ACLS PALS NRP,Master,entry-level,day shift,14
+257,physician,Chicago,ACLS CPR,Master,intermediate,night shift,5
+258,physician,Los Angeles,NRP CPR BLS ACLS,Master,advanced,day shift,4
+259,physician,Philadelphia,NRP ACLS CPR,Master,intermediate,day shift,12
+260,physician,Chicago,PALS CPR ACLS NRP,Master,intermediate,full-time,13
+261,physician,Chicago,CPR PALS ACLS NRP,Master,advanced,part-time,1
+262,physician,Los Angeles,BLS PALS,Master,entry-level,night shift,4
+263,physician,Los Angeles,BLS PALS,Master,intermediate,day shift,2
+264,physician,Philadelphia,BLS CPR ACLS,Master,advanced,full-time,30
+265,physician,Chicago,CPR NRP PALS,Master,entry-level,day shift,26
+266,physician,Philadelphia,ACLS BLS PALS CPR,Master,intermediate,full-time,21
+267,physician,New York,ACLS BLS,Master,intermediate,day shift,8
+268,physician,Los Angeles,PALS,Master,entry-level,part-time,17
+269,physician,Chicago,BLS NRP PALS,Master,entry-level,night shift,20
+270,physician,Los Angeles,NRP,Master,advanced,night shift,17
+271,physician,Houston,BLS NRP,Master,advanced,day shift,11
+272,physician,Houston,ACLS CPR,Master,intermediate,full-time,7
+273,physician,Houston,BLS PALS CPR,Master,advanced,night shift,26
+274,physician,Houston,ACLS PALS BLS,Master,entry-level,part-time,16
+275,physician,Houston,PALS ACLS NRP CPR,Master,advanced,part-time,12
+276,physician,Philadelphia,NRP,Master,intermediate,night shift,16
+277,physician,Houston,ACLS PALS,Master,advanced,day shift,3
+278,physician,Houston,CPR PALS,Master,advanced,full-time,3
+279,physician,Houston,BLS CPR ACLS NRP,Master,advanced,full-time,10
+280,physician,Chicago,NRP CPR BLS,Master,intermediate,part-time,3
+281,physician,Chicago,CPR BLS NRP ACLS PALS,Master,entry-level,day shift,2
+282,physician,Philadelphia,CPR PALS,Master,entry-level,full-time,17
+283,physician,Chicago,PALS,Master,advanced,part-time,14
+284,physician,Philadelphia,CPR PALS,Master,intermediate,night shift,17
+285,physician,Chicago,BLS PALS,Master,entry-level,night shift,7
+286,physician,New York,NRP PALS CPR ACLS,Master,intermediate,night shift,18
+287,physician,Houston,CPR PALS BLS NRP,Master,entry-level,full-time,23
+288,physician,New York,CPR ACLS PALS NRP,Master,entry-level,night shift,22
+289,physician,Houston,CPR ACLS PALS NRP,Master,advanced,day shift,18
+290,physician,Los Angeles,CPR ACLS,Master,intermediate,full-time,19
+291,physician,Chicago,ACLS CPR,Master,intermediate,full-time,4
+292,physician,Houston,NRP,Master,entry-level,day shift,21
+293,physician,Philadelphia,BLS ACLS CPR NRP,Master,entry-level,part-time,16
+294,physician,Chicago,PALS NRP BLS CPR,Master,advanced,full-time,22
+295,physician,New York,NRP BLS CPR,Master,intermediate,night shift,10
+296,physician,Los Angeles,NRP BLS ACLS CPR,Master,entry-level,day shift,28
+297,physician,Los Angeles,PALS CPR,Master,advanced,full-time,28
+298,physician,Chicago,NRP,Master,intermediate,full-time,29
+299,physician,Philadelphia,NRP PALS,Master,intermediate,night shift,21
+300,physician,Houston,CPR ACLS PALS NRP,Master,intermediate,full-time,13
+301,physician,Houston,PALS,Master,entry-level,day shift,8
+302,physician,Houston,NRP PALS CPR BLS,Master,intermediate,part-time,14
+303,physician,Houston,PALS BLS NRP ACLS CPR,Master,advanced,night shift,22
+304,physician,New York,PALS NRP BLS ACLS CPR,Master,advanced,night shift,13
+305,physician,Houston,BLS,Master,entry-level,part-time,26
+306,physician,Houston,ACLS NRP,Master,entry-level,part-time,21
+307,physician,Chicago,ACLS,Master,advanced,day shift,18
+308,physician,Chicago,BLS,Master,advanced,night shift,20
+309,physician,Los Angeles,NRP CPR PALS BLS ACLS,Master,entry-level,night shift,15
+310,physician,Chicago,NRP CPR PALS BLS ACLS,Master,entry-level,day shift,1
+311,physician,New York,NRP ACLS,Master,intermediate,day shift,25
+312,physician,Philadelphia,ACLS BLS PALS NRP CPR,Master,intermediate,part-time,8
+313,physician,Chicago,NRP CPR BLS PALS ACLS,Master,intermediate,full-time,30
+314,physician,Chicago,NRP,Master,entry-level,day shift,28
+315,physician,Philadelphia,NRP BLS,Master,entry-level,full-time,20
+316,physician,Los Angeles,ACLS PALS CPR NRP BLS,Master,advanced,part-time,25
+317,physician,Los Angeles,BLS,Master,intermediate,night shift,10
+318,physician,Chicago,CPR NRP PALS BLS ACLS,Master,intermediate,full-time,2
+319,physician,Houston,PALS BLS,Master,entry-level,part-time,25
+320,physician,Chicago,NRP PALS CPR ACLS,Master,advanced,day shift,20
+321,physician,Houston,CPR BLS ACLS NRP PALS,Master,intermediate,night shift,5
+322,physician,Los Angeles,NRP PALS,Master,intermediate,day shift,3
+323,physician,Philadelphia,ACLS BLS CPR,Master,advanced,part-time,2
+324,physician,Houston,PALS CPR,Master,entry-level,night shift,8
+325,physician,Los Angeles,PALS NRP BLS ACLS CPR,Master,intermediate,full-time,14
+326,physician,Houston,BLS CPR ACLS,Master,intermediate,day shift,27
+327,physician,Philadelphia,PALS CPR,Master,advanced,part-time,6
+328,physician,Houston,NRP,Master,advanced,part-time,8
+329,physician,New York,CPR BLS NRP,Master,entry-level,night shift,23
+330,physician,Houston,ACLS,Master,advanced,part-time,11
+331,physician,Los Angeles,NRP,Master,intermediate,night shift,30
+332,physician,Houston,BLS CPR PALS,Master,intermediate,night shift,5
+333,physician,Houston,ACLS PALS,Master,entry-level,full-time,3
+334,physician,Los Angeles,ACLS NRP,Master,intermediate,part-time,5
+335,physician,Houston,PALS CPR ACLS NRP,Master,intermediate,part-time,7
+336,physician,Philadelphia,PALS,Master,intermediate,day shift,26
+337,physician,Philadelphia,NRP PALS ACLS,Master,intermediate,day shift,6
+338,physician,New York,NRP PALS CPR BLS ACLS,Master,intermediate,part-time,24
+339,physician,New York,ACLS,Master,intermediate,day shift,1
+340,physician,Houston,PALS CPR NRP ACLS,Master,advanced,night shift,29
+341,physician,Houston,CPR,Master,entry-level,night shift,18
+342,physician,Philadelphia,CPR NRP ACLS BLS,Master,advanced,day shift,2
+343,physician,Houston,CPR BLS NRP ACLS,Master,intermediate,part-time,26
+344,physician,New York,BLS,Master,entry-level,part-time,18
+345,physician,Chicago,CPR NRP BLS ACLS PALS,Master,intermediate,night shift,10
+346,physician,Philadelphia,CPR,Master,intermediate,night shift,30
+347,physician,New York,CPR ACLS,Master,entry-level,night shift,15
+348,physician,Houston,PALS ACLS CPR NRP,Master,entry-level,full-time,27
+349,physician,Houston,NRP BLS ACLS,Master,entry-level,full-time,9
+350,physician,Philadelphia,BLS,Master,entry-level,full-time,22
+351,physician,Houston,PALS NRP CPR,Master,intermediate,night shift,20
+352,physician,Los Angeles,PALS,Master,intermediate,full-time,20
+353,physician,Los Angeles,BLS,Master,advanced,part-time,5
+354,physician,Chicago,PALS ACLS BLS NRP CPR,Master,entry-level,part-time,7
+355,physician,Houston,NRP PALS CPR BLS,Master,entry-level,part-time,7
+356,physician,New York,BLS CPR PALS,Master,intermediate,part-time,13
+357,physician,New York,PALS NRP CPR ACLS,Master,advanced,night shift,10
+358,physician,Philadelphia,CPR NRP ACLS,Master,entry-level,day shift,7
+359,physician,New York,ACLS CPR PALS BLS,Master,advanced,part-time,20
+360,physician,Chicago,NRP BLS,Master,intermediate,night shift,7
+361,physician,Chicago,NRP CPR PALS,Master,intermediate,part-time,1
+362,physician,New York,BLS ACLS,Master,entry-level,full-time,9
+363,physician,Chicago,CPR,Master,intermediate,day shift,2
+364,physician,Philadelphia,CPR ACLS BLS,Master,intermediate,full-time,21
+365,physician,New York,CPR PALS BLS,Master,intermediate,night shift,11
+366,physician,Chicago,CPR,Master,advanced,full-time,26
+367,physician,Philadelphia,NRP BLS,Master,entry-level,full-time,12
+368,physician,Chicago,NRP CPR BLS PALS,Master,entry-level,full-time,14
+369,physician,Philadelphia,PALS ACLS,Master,intermediate,day shift,26
+370,physician,Chicago,PALS ACLS CPR BLS,Master,intermediate,day shift,23
+371,physician,New York,BLS PALS NRP,Master,entry-level,night shift,27
+372,physician,Chicago,PALS,Master,advanced,day shift,9
+373,physician,Houston,PALS BLS CPR ACLS NRP,Master,entry-level,part-time,24
+374,physician,Los Angeles,BLS PALS,Master,advanced,full-time,17
+375,physician,Houston,BLS,Master,entry-level,day shift,24
+376,physician,Philadelphia,NRP,Master,intermediate,day shift,26
+377,physician,Chicago,BLS NRP,Master,advanced,night shift,17
+378,physician,Philadelphia,ACLS NRP PALS BLS,Master,intermediate,full-time,16
+379,physician,Philadelphia,ACLS NRP BLS PALS CPR,Master,advanced,part-time,7
+380,physician,Chicago,BLS CPR PALS,Master,entry-level,part-time,9
+381,physician,New York,CPR NRP ACLS,Master,intermediate,day shift,28
+382,physician,Philadelphia,ACLS PALS NRP BLS,Master,advanced,night shift,12
+383,physician,Philadelphia,BLS CPR ACLS,Master,intermediate,night shift,9
+384,physician,Houston,NRP BLS PALS,Master,advanced,part-time,17
+385,physician,New York,CPR PALS,Master,advanced,full-time,7
+386,physician,Los Angeles,NRP PALS BLS ACLS CPR,Master,entry-level,night shift,10
+387,physician,New York,PALS,Master,advanced,full-time,8
+388,physician,Houston,NRP PALS CPR,Master,intermediate,night shift,21
+389,physician,Los Angeles,BLS ACLS NRP,Master,entry-level,day shift,15
+390,physician,Chicago,BLS,Master,advanced,night shift,13
+391,physician,Los Angeles,PALS,Master,intermediate,full-time,21
+392,physician,Houston,NRP BLS PALS CPR ACLS,Master,advanced,night shift,17
+393,physician,Houston,NRP ACLS PALS,Master,entry-level,part-time,7
+394,physician,Los Angeles,PALS NRP ACLS BLS CPR,Master,advanced,part-time,16
+395,physician,Los Angeles,CPR ACLS,Master,entry-level,night shift,19
+396,physician,Houston,CPR ACLS BLS NRP,Master,advanced,night shift,14
+397,physician,Chicago,PALS NRP,Master,intermediate,night shift,4
+398,physician,Philadelphia,PALS BLS CPR NRP,Master,advanced,day shift,29
+399,physician,Philadelphia,PALS BLS CPR NRP ACLS,Master,intermediate,night shift,10
+400,physician,Chicago,PALS NRP CPR ACLS BLS,Master,intermediate,night shift,25
+401,physician,Philadelphia,CPR PALS NRP ACLS,Master,entry-level,part-time,30
+402,physician,New York,PALS,Master,intermediate,full-time,30
+403,physician,Los Angeles,CPR BLS PALS ACLS NRP,Master,entry-level,night shift,23
+404,physician,New York,CPR ACLS NRP BLS PALS,Master,entry-level,part-time,30
+405,physician,New York,NRP PALS ACLS BLS CPR,Master,advanced,part-time,15
+406,physician,New York,ACLS NRP PALS,Master,advanced,full-time,8
+407,physician,Chicago,BLS,Master,advanced,full-time,7
+408,physician,Houston,ACLS,Master,advanced,day shift,8
+409,physician,Chicago,PALS,Master,intermediate,full-time,17
+410,physician,Chicago,PALS NRP CPR,Master,intermediate,day shift,12
+411,physician,Philadelphia,NRP BLS PALS,Master,intermediate,full-time,22
+412,physician,New York,CPR,Master,advanced,night shift,17
+413,physician,Houston,ACLS NRP PALS CPR BLS,Master,entry-level,part-time,23
+414,physician,Philadelphia,NRP PALS CPR BLS,Master,entry-level,night shift,21
+415,physician,Houston,PALS NRP,Master,entry-level,part-time,28
+416,physician,Los Angeles,ACLS NRP,Master,advanced,night shift,22
+417,physician,Philadelphia,BLS ACLS PALS,Master,entry-level,full-time,24
+418,physician,Chicago,PALS CPR BLS NRP ACLS,Master,entry-level,part-time,25
+419,physician,New York,PALS,Master,intermediate,part-time,1
+420,physician,Philadelphia,NRP,Master,advanced,part-time,6
+421,physician,Philadelphia,ACLS,Master,advanced,day shift,22
+422,physician,Chicago,NRP BLS ACLS CPR PALS,Master,advanced,night shift,2
+423,physician,Philadelphia,BLS,Master,intermediate,day shift,23
+424,physician,Los Angeles,CPR BLS ACLS,Master,advanced,night shift,5
+425,physician,New York,PALS BLS ACLS CPR,Master,intermediate,part-time,22
+426,physician,Philadelphia,BLS CPR NRP PALS ACLS,Master,entry-level,night shift,14
+427,physician,Houston,CPR PALS,Master,entry-level,night shift,17
+428,physician,Houston,CPR NRP PALS,Master,entry-level,full-time,13
+429,physician,Philadelphia,ACLS CPR NRP BLS PALS,Master,entry-level,full-time,27
+430,physician,Chicago,ACLS PALS,Master,intermediate,day shift,6
+431,physician,Houston,CPR PALS BLS ACLS,Master,advanced,day shift,24
+432,physician,Philadelphia,PALS BLS,Master,advanced,part-time,2
+433,physician,Houston,NRP BLS CPR PALS ACLS,Master,entry-level,full-time,13
+434,physician,Houston,PALS,Master,intermediate,full-time,22
+435,physician,Philadelphia,NRP,Master,intermediate,full-time,25
+436,physician,Houston,BLS CPR NRP ACLS PALS,Master,advanced,night shift,4
+437,physician,Los Angeles,CPR NRP BLS ACLS PALS,Master,intermediate,full-time,6
+438,physician,New York,BLS NRP PALS CPR ACLS,Master,entry-level,day shift,28
+439,physician,Houston,BLS NRP PALS ACLS,Master,intermediate,night shift,23
+440,physician,Philadelphia,NRP ACLS PALS,Master,entry-level,part-time,11
+441,physician,Houston,NRP ACLS,Master,advanced,part-time,16
+442,physician,Chicago,NRP ACLS CPR,Master,entry-level,day shift,23
+443,physician,Houston,ACLS BLS PALS CPR,Master,entry-level,full-time,18
+444,physician,Los Angeles,BLS ACLS CPR NRP PALS,Master,intermediate,part-time,1
+445,physician,Los Angeles,ACLS NRP BLS,Master,advanced,part-time,26
+446,physician,Los Angeles,NRP ACLS,Master,advanced,part-time,21
+447,physician,New York,NRP BLS CPR PALS ACLS,Master,advanced,night shift,22
+448,physician,Philadelphia,BLS CPR PALS,Master,entry-level,full-time,10
+449,physician,New York,ACLS BLS PALS NRP CPR,Master,intermediate,day shift,15
+450,physician,Los Angeles,BLS CPR PALS NRP,Master,entry-level,day shift,2
+451,physician,Los Angeles,CPR,Master,intermediate,full-time,22
+452,physician,Chicago,NRP PALS ACLS BLS CPR,Master,entry-level,full-time,3
+453,physician,Los Angeles,CPR PALS ACLS BLS,Master,entry-level,full-time,15
+454,physician,Chicago,ACLS BLS NRP,Master,advanced,night shift,26
+455,physician,Philadelphia,CPR,Master,intermediate,day shift,1
+456,physician,Philadelphia,BLS,Master,advanced,night shift,10
+457,physician,New York,PALS CPR NRP ACLS BLS,Master,entry-level,night shift,13
+458,physician,Los Angeles,NRP ACLS,Master,advanced,day shift,16
+459,physician,Los Angeles,ACLS,Master,entry-level,day shift,11
+460,physician,Chicago,CPR,Master,intermediate,day shift,22
+461,physician,Philadelphia,NRP BLS CPR,Master,entry-level,night shift,18
+462,physician,Los Angeles,NRP CPR PALS,Master,entry-level,night shift,6
+463,physician,Houston,NRP,Master,advanced,day shift,2
+464,physician,New York,PALS BLS NRP,Master,intermediate,day shift,16
+465,physician,Philadelphia,NRP CPR PALS,Master,entry-level,day shift,24
+466,physician,Chicago,ACLS PALS,Master,advanced,night shift,19
+467,physician,Los Angeles,PALS CPR ACLS,Master,entry-level,full-time,14
+468,physician,Houston,NRP BLS ACLS CPR,Master,entry-level,part-time,26
+469,physician,Los Angeles,ACLS PALS CPR,Master,advanced,day shift,22
+470,physician,Houston,PALS BLS CPR,Master,intermediate,part-time,10
+471,physician,Philadelphia,CPR ACLS,Master,entry-level,night shift,25
+472,physician,Houston,BLS,Master,entry-level,full-time,2
+473,physician,Houston,CPR PALS ACLS BLS NRP,Master,intermediate,night shift,9
+474,physician,Chicago,BLS PALS CPR ACLS,Master,advanced,night shift,29
+475,physician,Houston,BLS PALS NRP CPR ACLS,Master,advanced,part-time,16
+476,physician,Los Angeles,BLS ACLS PALS NRP,Master,intermediate,part-time,3
+477,physician,Los Angeles,PALS,Master,advanced,day shift,23
+478,physician,Los Angeles,PALS NRP ACLS CPR BLS,Master,advanced,part-time,27
+479,physician,Chicago,BLS PALS ACLS CPR NRP,Master,advanced,part-time,13
+480,physician,Chicago,ACLS,Master,advanced,full-time,20
+481,physician,New York,CPR NRP PALS BLS ACLS,Master,entry-level,day shift,17
+482,physician,Los Angeles,NRP PALS CPR,Master,advanced,night shift,11
+483,physician,Chicago,PALS CPR ACLS NRP BLS,Master,entry-level,day shift,28
+484,physician,Houston,NRP CPR ACLS,Master,intermediate,day shift,29
+485,physician,Chicago,BLS ACLS PALS,Master,entry-level,full-time,2
+486,physician,Los Angeles,BLS PALS ACLS NRP,Master,entry-level,night shift,13
+487,physician,Houston,NRP,Master,intermediate,night shift,29
+488,physician,Houston,BLS PALS CPR ACLS,Master,entry-level,part-time,2
+489,physician,New York,NRP CPR PALS ACLS,Master,entry-level,part-time,21
+490,physician,Chicago,ACLS NRP BLS PALS CPR,Master,advanced,full-time,22
+491,physician,Philadelphia,CPR BLS ACLS PALS,Master,entry-level,day shift,26
+492,physician,Chicago,BLS NRP PALS CPR ACLS,Master,advanced,part-time,24
+493,physician,Chicago,NRP,Master,entry-level,night shift,24
+494,physician,Philadelphia,PALS CPR,Master,entry-level,full-time,14
+495,physician,Chicago,CPR BLS ACLS PALS NRP,Master,entry-level,part-time,28
+496,physician,New York,CPR NRP BLS PALS,Master,advanced,full-time,23
+497,physician,Chicago,ACLS NRP,Master,intermediate,day shift,11
+498,physician,Chicago,PALS NRP,Master,entry-level,day shift,30
+499,physician,Chicago,BLS PALS,Master,intermediate,day shift,27
+500,physician,Los Angeles,NRP BLS CPR ACLS,Master,intermediate,night shift,21
+501,physician,Houston,CPR BLS,Master,entry-level,day shift,27
+502,physician,Los Angeles,ACLS,Master,advanced,part-time,7
+503,physician,Philadelphia,BLS NRP,Master,intermediate,full-time,16
+504,physician,Houston,ACLS PALS,Master,intermediate,part-time,19
+505,physician,Chicago,ACLS CPR BLS,Master,entry-level,day shift,23
+506,physician,Philadelphia,BLS PALS,Master,advanced,day shift,24
+507,physician,Los Angeles,PALS NRP BLS,Master,intermediate,night shift,5
+508,physician,Los Angeles,ACLS BLS NRP CPR,Master,entry-level,night shift,8
+509,physician,Los Angeles,NRP CPR ACLS,Master,advanced,night shift,14
+510,physician,Philadelphia,PALS CPR,Master,entry-level,part-time,1
+511,physician,Houston,PALS ACLS CPR,Master,entry-level,day shift,2
+512,physician,Houston,CPR,Master,entry-level,night shift,26
+513,physician,Los Angeles,BLS PALS ACLS CPR,Master,entry-level,night shift,11
+514,physician,New York,NRP,Master,intermediate,night shift,26
+515,physician,Philadelphia,NRP BLS ACLS PALS,Master,advanced,full-time,1
+516,physician,Chicago,CPR NRP,Master,advanced,full-time,28
+517,physician,Los Angeles,NRP BLS PALS,Master,intermediate,night shift,16
+518,physician,New York,BLS ACLS PALS NRP CPR,Master,entry-level,part-time,2
+519,physician,Chicago,NRP CPR ACLS,Master,intermediate,full-time,2
+520,physician,Los Angeles,CPR PALS BLS,Master,entry-level,full-time,25
+521,physician,Philadelphia,PALS BLS ACLS,Master,intermediate,part-time,30
+522,physician,Houston,ACLS NRP CPR PALS,Master,intermediate,night shift,29
+523,physician,Philadelphia,CPR PALS ACLS BLS,Master,entry-level,full-time,13
+524,physician,Philadelphia,CPR NRP ACLS BLS,Master,entry-level,part-time,1
+525,physician,New York,PALS,Master,entry-level,night shift,1
+526,physician,Chicago,ACLS CPR PALS NRP BLS,Master,intermediate,full-time,6
+527,physician,Chicago,NRP BLS PALS CPR,Master,advanced,day shift,11
+528,physician,Chicago,ACLS NRP,Master,advanced,night shift,27
+529,physician,Houston,ACLS CPR NRP BLS PALS,Master,advanced,day shift,3
+530,physician,Chicago,NRP PALS CPR ACLS BLS,Master,advanced,night shift,6
+531,physician,Los Angeles,CPR NRP BLS ACLS,Master,entry-level,full-time,11
+532,physician,Los Angeles,ACLS,Master,intermediate,day shift,24
+533,physician,Chicago,CPR ACLS BLS PALS,Master,advanced,day shift,23
+534,physician,Los Angeles,BLS NRP PALS CPR,Master,entry-level,night shift,14
+535,physician,New York,NRP ACLS,Master,advanced,part-time,1
+536,physician,New York,PALS BLS CPR NRP,Master,entry-level,day shift,5
+537,physician,New York,NRP PALS ACLS,Master,entry-level,part-time,1
+538,physician,Houston,ACLS NRP BLS PALS CPR,Master,advanced,full-time,29
+539,physician,Philadelphia,ACLS CPR,Master,advanced,part-time,13
+540,physician,Houston,BLS CPR PALS NRP ACLS,Master,advanced,full-time,15
+541,physician,New York,BLS NRP CPR ACLS,Master,intermediate,full-time,9
+542,physician,Los Angeles,BLS NRP ACLS,Master,intermediate,night shift,19
+543,physician,Houston,BLS,Master,advanced,full-time,18
+544,physician,Houston,CPR NRP,Master,advanced,night shift,28
+545,physician,Philadelphia,ACLS PALS CPR NRP,Master,intermediate,full-time,5
+546,physician,Philadelphia,BLS ACLS CPR NRP,Master,intermediate,full-time,12
+547,physician,Chicago,BLS,Master,intermediate,night shift,24
+548,physician,Philadelphia,CPR PALS BLS ACLS,Master,intermediate,day shift,30
+549,physician,New York,NRP PALS BLS,Master,intermediate,night shift,13
+550,physician,Chicago,BLS ACLS,Master,intermediate,part-time,19
+551,physician,Philadelphia,NRP PALS ACLS,Master,intermediate,full-time,28
+552,physician,New York,NRP CPR,Master,advanced,part-time,5
+553,physician,Houston,NRP CPR ACLS,Master,intermediate,day shift,16
+554,physician,Houston,PALS,Master,entry-level,part-time,16
+555,physician,New York,BLS ACLS PALS,Master,entry-level,part-time,3
+556,physician,New York,NRP PALS ACLS CPR,Master,entry-level,night shift,14
+557,physician,Los Angeles,CPR PALS NRP BLS ACLS,Master,advanced,part-time,10
+558,physician,Houston,NRP PALS BLS,Master,entry-level,day shift,23
+559,physician,New York,BLS,Master,intermediate,night shift,28
+560,physician,New York,BLS ACLS NRP PALS,Master,entry-level,full-time,14
+561,physician,Houston,PALS BLS NRP ACLS,Master,entry-level,full-time,10
+562,physician,Philadelphia,NRP,Master,advanced,part-time,13
+563,physician,Philadelphia,CPR BLS PALS,Master,entry-level,part-time,13
+564,physician,Los Angeles,BLS PALS,Master,entry-level,part-time,14
+565,physician,Houston,NRP BLS CPR PALS ACLS,Master,advanced,day shift,19
+566,physician,Los Angeles,CPR ACLS,Master,advanced,part-time,26
+567,physician,New York,NRP,Master,entry-level,full-time,28
+568,physician,Philadelphia,NRP BLS,Master,intermediate,part-time,2
+569,physician,Chicago,BLS NRP PALS,Master,entry-level,part-time,22
+570,physician,Chicago,CPR,Master,entry-level,day shift,9
+571,physician,Philadelphia,CPR,Master,entry-level,night shift,16
+572,physician,Philadelphia,ACLS PALS BLS CPR,Master,advanced,day shift,19
+573,physician,New York,CPR PALS NRP BLS ACLS,Master,entry-level,day shift,3
+574,physician,Los Angeles,NRP CPR ACLS,Master,advanced,day shift,17
+575,physician,Chicago,PALS NRP CPR ACLS,Master,advanced,day shift,17
+576,physician,Philadelphia,ACLS PALS CPR,Master,intermediate,full-time,13
+577,physician,Houston,PALS BLS CPR,Master,advanced,part-time,29
+578,physician,Houston,BLS PALS ACLS NRP CPR,Master,entry-level,day shift,12
+579,physician,Houston,PALS ACLS,Master,entry-level,day shift,16
+580,physician,New York,NRP,Master,advanced,part-time,4
+581,physician,Chicago,ACLS,Master,advanced,night shift,9
+582,physician,Philadelphia,BLS ACLS,Master,entry-level,part-time,19
+583,physician,Philadelphia,PALS,Master,entry-level,part-time,9
+584,physician,Chicago,ACLS,Master,intermediate,full-time,28
+585,physician,Chicago,NRP PALS CPR BLS,Master,advanced,day shift,17
+586,physician,Chicago,NRP PALS BLS CPR ACLS,Master,entry-level,part-time,4
+587,physician,Los Angeles,ACLS NRP BLS PALS CPR,Master,intermediate,night shift,6
+588,physician,Houston,CPR BLS PALS NRP ACLS,Master,intermediate,night shift,17
+589,physician,New York,BLS ACLS NRP PALS,Master,intermediate,day shift,12
+590,physician,Los Angeles,BLS CPR NRP ACLS,Master,advanced,part-time,27
+591,physician,Los Angeles,ACLS NRP PALS BLS,Master,intermediate,full-time,19
+592,physician,New York,ACLS,Master,advanced,full-time,12
+593,physician,Chicago,CPR,Master,advanced,part-time,21
+594,physician,Houston,BLS NRP ACLS,Master,entry-level,day shift,11
+595,physician,Los Angeles,PALS ACLS BLS NRP CPR,Master,intermediate,day shift,11
+596,physician,New York,NRP BLS ACLS,Master,entry-level,day shift,1
+597,physician,Los Angeles,CPR ACLS BLS,Master,advanced,full-time,6
+598,physician,New York,BLS,Master,advanced,day shift,17
+599,physician,Chicago,BLS,Master,entry-level,night shift,4
+600,physician,Los Angeles,BLS PALS ACLS CPR,Master,advanced,night shift,27
+601,physician,Houston,BLS ACLS PALS,Master,entry-level,part-time,19
+602,physician,New York,BLS PALS CPR,Master,entry-level,full-time,15
+603,physician,New York,CPR BLS NRP ACLS,Master,advanced,part-time,18
+604,physician,Houston,PALS ACLS NRP CPR BLS,Master,intermediate,part-time,28
+605,physician,New York,PALS NRP CPR ACLS BLS,Master,advanced,night shift,13
+606,physician,Houston,NRP PALS CPR BLS,Master,advanced,full-time,17
+607,physician,Chicago,BLS NRP ACLS CPR PALS,Master,intermediate,night shift,29
+608,physician,Chicago,NRP PALS CPR BLS,Master,intermediate,part-time,12
+609,physician,Los Angeles,PALS BLS,Master,entry-level,night shift,14
+610,physician,Houston,CPR,Master,advanced,night shift,7
+611,physician,Philadelphia,NRP BLS,Master,intermediate,night shift,14
+612,physician,Philadelphia,PALS BLS NRP CPR ACLS,Master,intermediate,night shift,9
+613,physician,Philadelphia,NRP ACLS CPR BLS,Master,entry-level,day shift,2
+614,physician,Houston,NRP PALS ACLS,Master,advanced,full-time,22
+615,physician,New York,NRP BLS ACLS,Master,advanced,night shift,20
+616,physician,Chicago,ACLS BLS,Master,entry-level,night shift,2
+617,physician,New York,NRP CPR,Master,entry-level,night shift,7
+618,physician,Los Angeles,CPR BLS ACLS PALS NRP,Master,intermediate,part-time,10
+619,physician,Chicago,NRP ACLS CPR,Master,intermediate,night shift,18
+620,physician,Philadelphia,NRP CPR BLS ACLS PALS,Master,entry-level,full-time,7
+621,physician,Los Angeles,PALS CPR,Master,advanced,night shift,14
+622,physician,Los Angeles,NRP,Master,intermediate,night shift,19
+623,physician,Houston,BLS NRP CPR ACLS PALS,Master,advanced,night shift,2
+624,physician,Philadelphia,BLS,Master,advanced,part-time,21
+625,physician,Los Angeles,CPR NRP PALS ACLS,Master,entry-level,full-time,12
+626,physician,Houston,NRP CPR PALS BLS ACLS,Master,intermediate,part-time,30
+627,physician,Chicago,CPR PALS,Master,intermediate,part-time,15
+628,physician,Philadelphia,CPR BLS PALS NRP,Master,intermediate,full-time,7
+629,physician,Chicago,NRP CPR BLS,Master,intermediate,part-time,16
+630,physician,New York,PALS NRP BLS,Master,intermediate,full-time,20
+631,physician,New York,ACLS PALS,Master,entry-level,night shift,21
+632,physician,New York,CPR PALS NRP,Master,intermediate,night shift,4
+633,physician,Philadelphia,CPR,Master,entry-level,day shift,9
+634,physician,Houston,BLS ACLS NRP CPR,Master,entry-level,part-time,11
+635,physician,Houston,CPR ACLS PALS,Master,advanced,full-time,17
+636,physician,Houston,CPR BLS,Master,advanced,day shift,24
+637,physician,Philadelphia,BLS PALS ACLS CPR,Master,intermediate,day shift,10
+638,physician,New York,BLS,Master,advanced,part-time,2
+639,physician,Philadelphia,PALS BLS,Master,entry-level,full-time,29
+640,physician,Chicago,ACLS PALS BLS NRP,Master,entry-level,day shift,27
+641,physician,New York,NRP CPR ACLS PALS,Master,intermediate,day shift,9
+642,physician,Los Angeles,PALS,Master,intermediate,night shift,8
+643,physician,Los Angeles,PALS NRP ACLS BLS,Master,entry-level,night shift,23
+644,physician,New York,NRP,Master,intermediate,full-time,22
+645,physician,Chicago,NRP BLS ACLS CPR PALS,Master,intermediate,full-time,8
+646,physician,New York,BLS ACLS CPR,Master,advanced,part-time,4
+647,physician,Houston,NRP PALS ACLS BLS,Master,advanced,day shift,20
+648,physician,Philadelphia,BLS CPR PALS ACLS,Master,intermediate,day shift,14
+649,physician,Houston,CPR NRP,Master,entry-level,full-time,10
+650,physician,Chicago,CPR BLS PALS ACLS NRP,Master,advanced,part-time,25
+651,physician,Los Angeles,CPR PALS,Master,intermediate,day shift,28
+652,physician,New York,BLS CPR,Master,advanced,day shift,3
+653,physician,Houston,ACLS BLS,Master,intermediate,part-time,10
+654,physician,Los Angeles,BLS CPR NRP,Master,entry-level,part-time,12
+655,physician,Philadelphia,BLS NRP ACLS CPR PALS,Master,entry-level,night shift,11
+656,physician,New York,BLS NRP ACLS CPR,Master,advanced,part-time,5
+657,physician,Los Angeles,CPR,Master,entry-level,night shift,16
+658,physician,Philadelphia,ACLS BLS NRP,Master,intermediate,night shift,26
+659,physician,Chicago,NRP ACLS PALS,Master,intermediate,full-time,28
+660,physician,New York,PALS BLS,Master,intermediate,part-time,9
+661,physician,Los Angeles,CPR BLS NRP ACLS PALS,Master,advanced,full-time,24
+662,physician,Philadelphia,PALS BLS NRP ACLS CPR,Master,advanced,day shift,5
+663,physician,Houston,PALS CPR BLS,Master,intermediate,full-time,8
+664,physician,Houston,CPR NRP BLS ACLS,Master,advanced,night shift,30
+665,physician,Chicago,BLS CPR ACLS PALS NRP,Master,intermediate,day shift,26
+666,physician,Chicago,ACLS CPR PALS,Master,entry-level,part-time,13
+667,physician,New York,PALS BLS NRP,Master,advanced,night shift,21
+668,physician,New York,PALS,Master,advanced,part-time,21
+669,physician,New York,BLS NRP CPR PALS,Master,entry-level,full-time,4
+670,physician,Houston,ACLS NRP BLS PALS CPR,Master,entry-level,day shift,29
+671,physician,Houston,NRP ACLS,Master,entry-level,night shift,24
+672,physician,Houston,CPR NRP ACLS,Master,advanced,day shift,16
+673,physician,Philadelphia,CPR NRP ACLS,Master,advanced,full-time,16
+674,physician,Philadelphia,ACLS CPR BLS PALS,Master,intermediate,day shift,28
+675,physician,Chicago,PALS ACLS CPR BLS NRP,Master,entry-level,night shift,29
+676,physician,Philadelphia,BLS CPR PALS NRP ACLS,Master,advanced,part-time,6
+677,physician,Houston,ACLS CPR NRP,Master,advanced,night shift,10
+678,physician,New York,ACLS,Master,intermediate,night shift,8
+679,physician,Philadelphia,PALS ACLS NRP,Master,intermediate,full-time,19
+680,physician,Chicago,BLS CPR ACLS NRP PALS,Master,intermediate,full-time,3
+681,physician,Chicago,NRP CPR ACLS PALS BLS,Master,intermediate,night shift,12
+682,physician,Philadelphia,ACLS NRP PALS BLS CPR,Master,advanced,day shift,17
+683,physician,Chicago,BLS,Master,entry-level,day shift,1
+684,physician,Chicago,NRP ACLS,Master,advanced,day shift,11
+685,physician,Houston,NRP,Master,intermediate,night shift,4
+686,physician,Chicago,PALS ACLS BLS NRP,Master,entry-level,part-time,3
+687,physician,Philadelphia,PALS CPR NRP ACLS BLS,Master,entry-level,night shift,28
+688,physician,New York,ACLS BLS,Master,advanced,night shift,5
+689,physician,Chicago,BLS,Master,advanced,day shift,23
+690,physician,New York,BLS,Master,entry-level,night shift,21
+691,physician,Chicago,CPR BLS,Master,advanced,part-time,27
+692,physician,New York,PALS,Master,intermediate,night shift,28
+693,physician,Los Angeles,CPR BLS,Master,advanced,day shift,11
+694,physician,Houston,ACLS NRP,Master,intermediate,night shift,29
+695,physician,Philadelphia,PALS NRP,Master,entry-level,night shift,14
+696,physician,Houston,NRP ACLS PALS BLS CPR,Master,advanced,full-time,22
+697,physician,Philadelphia,PALS CPR ACLS NRP BLS,Master,entry-level,night shift,17
+698,physician,Los Angeles,PALS NRP CPR,Master,intermediate,day shift,9
+699,physician,New York,ACLS NRP,Master,intermediate,full-time,29
+700,physician,Los Angeles,ACLS NRP BLS CPR PALS,Master,advanced,night shift,24
+701,physician,Chicago,BLS ACLS NRP,Master,intermediate,full-time,10
+702,physician,Philadelphia,BLS,Master,advanced,night shift,6
+703,physician,New York,NRP,Master,intermediate,day shift,20
+704,physician,New York,ACLS BLS PALS,Master,intermediate,part-time,17
+705,physician,Philadelphia,CPR,Master,entry-level,night shift,10
+706,physician,Houston,BLS,Master,entry-level,part-time,25
+707,physician,New York,NRP,Master,advanced,day shift,8
+708,physician,Houston,PALS NRP BLS,Master,entry-level,part-time,9
+709,physician,New York,PALS NRP ACLS BLS,Master,entry-level,full-time,7
+710,physician,Houston,BLS NRP CPR ACLS PALS,Master,entry-level,full-time,8
+711,physician,New York,BLS NRP PALS ACLS CPR,Master,intermediate,part-time,11
+712,physician,Los Angeles,NRP ACLS CPR BLS PALS,Master,intermediate,part-time,9
+713,physician,New York,NRP,Master,advanced,day shift,2
+714,physician,Philadelphia,ACLS CPR,Master,advanced,part-time,16
+715,physician,Philadelphia,ACLS NRP,Master,advanced,full-time,18
+716,physician,Chicago,ACLS CPR PALS NRP,Master,entry-level,night shift,25
+717,physician,Los Angeles,PALS BLS ACLS,Master,advanced,full-time,18
+718,physician,Los Angeles,PALS ACLS,Master,intermediate,full-time,15
+719,physician,New York,PALS BLS CPR NRP,Master,advanced,part-time,20
+720,physician,Los Angeles,CPR NRP BLS,Master,entry-level,full-time,18
+721,physician,Philadelphia,ACLS NRP,Master,advanced,night shift,15
+722,physician,Los Angeles,CPR,Master,intermediate,full-time,20
+723,physician,Los Angeles,NRP BLS,Master,advanced,day shift,25
+724,physician,Los Angeles,PALS ACLS CPR,Master,intermediate,full-time,22
+725,physician,Los Angeles,BLS ACLS,Master,intermediate,part-time,19
+726,physician,Houston,PALS BLS,Master,entry-level,night shift,11
+727,physician,New York,CPR ACLS BLS NRP,Master,advanced,part-time,9
+728,physician,Chicago,CPR,Master,advanced,part-time,1
+729,physician,Houston,CPR NRP ACLS,Master,intermediate,full-time,7
+730,physician,Philadelphia,ACLS NRP CPR PALS BLS,Master,intermediate,part-time,9
+731,physician,New York,PALS NRP ACLS CPR,Master,advanced,part-time,25
+732,physician,Houston,ACLS PALS BLS CPR NRP,Master,intermediate,day shift,25
+733,physician,Philadelphia,ACLS CPR NRP BLS,Master,intermediate,full-time,15
+734,physician,Houston,PALS,Master,advanced,full-time,30
+735,physician,Chicago,NRP ACLS CPR,Master,advanced,full-time,30
+736,physician,New York,CPR ACLS,Master,intermediate,day shift,23
+737,physician,Philadelphia,PALS BLS CPR,Master,intermediate,full-time,26
+738,physician,Philadelphia,ACLS NRP BLS PALS,Master,entry-level,part-time,19
+739,physician,Philadelphia,PALS CPR NRP,Master,advanced,night shift,29
+740,physician,Houston,NRP PALS ACLS CPR,Master,advanced,part-time,12
+741,physician,Philadelphia,CPR ACLS,Master,intermediate,day shift,8
+742,physician,New York,PALS,Master,advanced,day shift,27
+743,physician,Los Angeles,BLS PALS NRP,Master,intermediate,day shift,23
+744,physician,Philadelphia,ACLS CPR,Master,entry-level,day shift,18
+745,physician,Chicago,PALS NRP CPR BLS ACLS,Master,intermediate,day shift,21
+746,physician,Houston,PALS BLS ACLS,Master,intermediate,part-time,10
+747,physician,Houston,PALS BLS NRP CPR ACLS,Master,intermediate,day shift,7
+748,physician,Houston,CPR ACLS NRP,Master,intermediate,day shift,20
+749,physician,New York,NRP CPR,Master,entry-level,night shift,28
+750,physician,Los Angeles,CPR,Master,advanced,full-time,17
+751,physician,Chicago,NRP CPR,Master,entry-level,full-time,6
+752,physician,New York,PALS CPR NRP ACLS,Master,intermediate,part-time,3
+753,physician,Houston,BLS PALS ACLS CPR,Master,intermediate,part-time,7
+754,physician,Chicago,NRP CPR,Master,entry-level,night shift,13
+755,physician,Chicago,CPR ACLS NRP,Master,entry-level,full-time,3
+756,physician,New York,PALS,Master,advanced,day shift,7
+757,physician,Los Angeles,ACLS CPR NRP PALS BLS,Master,intermediate,night shift,4
+758,physician,Chicago,BLS NRP,Master,intermediate,night shift,1
+759,physician,Philadelphia,ACLS,Master,advanced,night shift,22
+760,physician,Houston,NRP,Master,intermediate,day shift,11
+761,physician,Chicago,CPR,Master,intermediate,part-time,30
+762,physician,Houston,ACLS NRP CPR PALS BLS,Master,advanced,day shift,21
+763,physician,Philadelphia,BLS PALS CPR NRP ACLS,Master,advanced,night shift,4
+764,physician,Houston,CPR PALS ACLS BLS NRP,Master,intermediate,night shift,30
+765,physician,Houston,ACLS CPR NRP PALS BLS,Master,advanced,part-time,9
+766,physician,New York,PALS BLS CPR,Master,intermediate,night shift,28
+767,physician,Houston,PALS,Master,advanced,day shift,2
+768,physician,Chicago,ACLS CPR BLS NRP,Master,advanced,part-time,4
+769,physician,Chicago,BLS,Master,intermediate,night shift,6
+770,physician,New York,CPR PALS ACLS BLS NRP,Master,intermediate,part-time,7
+771,physician,Houston,NRP ACLS,Master,advanced,day shift,30
+772,physician,New York,CPR NRP ACLS,Master,entry-level,part-time,8
+773,physician,Houston,BLS,Master,intermediate,full-time,17
+774,physician,New York,PALS,Master,intermediate,full-time,9
+775,physician,Los Angeles,CPR ACLS BLS,Master,entry-level,part-time,25
+776,physician,New York,NRP CPR BLS ACLS,Master,intermediate,night shift,10
+777,physician,New York,ACLS CPR PALS,Master,intermediate,night shift,25
+778,physician,Los Angeles,NRP,Master,intermediate,night shift,16
+779,physician,Chicago,NRP,Master,intermediate,part-time,2
+780,physician,Chicago,ACLS,Master,entry-level,night shift,7
+781,physician,Los Angeles,NRP CPR PALS BLS ACLS,Master,entry-level,day shift,17
+782,physician,New York,BLS,Master,entry-level,day shift,15
+783,physician,Philadelphia,ACLS PALS CPR,Master,intermediate,day shift,26
+784,physician,Los Angeles,NRP ACLS PALS CPR,Master,advanced,day shift,29
+785,physician,Los Angeles,BLS CPR PALS NRP,Master,entry-level,day shift,2
+786,physician,Houston,CPR NRP BLS ACLS PALS,Master,entry-level,full-time,6
+787,physician,Los Angeles,PALS,Master,advanced,full-time,14
+788,physician,Philadelphia,CPR ACLS NRP,Master,intermediate,night shift,17
+789,physician,Philadelphia,BLS,Master,intermediate,full-time,26
+790,physician,Houston,NRP,Master,advanced,day shift,30
+791,physician,New York,CPR,Master,advanced,part-time,23
+792,physician,New York,CPR PALS ACLS NRP,Master,advanced,day shift,20
+793,physician,Chicago,PALS CPR,Master,intermediate,day shift,7
+794,physician,Chicago,NRP BLS,Master,intermediate,part-time,23
+795,physician,Philadelphia,CPR BLS PALS ACLS,Master,advanced,night shift,1
+796,physician,Los Angeles,ACLS BLS CPR NRP,Master,advanced,night shift,7
+797,physician,Houston,BLS PALS ACLS,Master,advanced,full-time,14
+798,physician,Chicago,NRP BLS ACLS PALS CPR,Master,intermediate,day shift,29
+799,physician,Houston,NRP PALS BLS,Master,intermediate,full-time,17
+800,physician,Los Angeles,NRP PALS CPR,Master,entry-level,day shift,23
+801,physician,Philadelphia,BLS PALS ACLS NRP,Master,entry-level,night shift,28
+802,physician,Philadelphia,NRP CPR PALS ACLS,Master,advanced,part-time,11
+803,physician,Los Angeles,ACLS,Master,entry-level,night shift,25
+804,physician,Los Angeles,BLS,Master,entry-level,part-time,29
+805,physician,Chicago,NRP PALS,Master,intermediate,day shift,3
+806,physician,Los Angeles,NRP,Master,intermediate,part-time,13
+807,physician,Houston,PALS,Master,intermediate,part-time,27
+808,physician,Philadelphia,CPR NRP PALS,Master,advanced,full-time,27
+809,physician,Chicago,BLS NRP,Master,entry-level,night shift,25
+810,physician,Philadelphia,BLS PALS NRP ACLS CPR,Master,advanced,night shift,11
+811,physician,Chicago,BLS NRP,Master,intermediate,day shift,23
+812,physician,Philadelphia,PALS,Master,intermediate,night shift,10
+813,physician,Los Angeles,CPR,Master,intermediate,day shift,11
+814,physician,New York,BLS PALS,Master,intermediate,part-time,3
+815,physician,Houston,BLS ACLS PALS NRP,Master,entry-level,part-time,7
+816,physician,Los Angeles,BLS CPR ACLS,Master,advanced,night shift,18
+817,physician,New York,NRP BLS ACLS PALS CPR,Master,intermediate,part-time,8
+818,physician,New York,BLS,Master,intermediate,night shift,25
+819,physician,Houston,PALS ACLS NRP BLS CPR,Master,entry-level,day shift,4
+820,physician,Los Angeles,PALS BLS CPR,Master,advanced,day shift,25
+821,physician,Houston,BLS NRP ACLS CPR PALS,Master,advanced,night shift,19
+822,physician,New York,NRP,Master,entry-level,part-time,1
+823,physician,New York,NRP,Master,advanced,full-time,8
+824,physician,Los Angeles,NRP PALS ACLS CPR,Master,entry-level,full-time,27
+825,physician,Chicago,NRP,Master,entry-level,full-time,1
+826,physician,Chicago,CPR ACLS NRP PALS BLS,Master,intermediate,night shift,18
+827,physician,Philadelphia,CPR,Master,intermediate,full-time,30
+828,physician,Houston,BLS ACLS CPR PALS NRP,Master,intermediate,night shift,11
+829,physician,Houston,BLS ACLS NRP PALS CPR,Master,intermediate,day shift,14
+830,physician,Chicago,ACLS NRP PALS BLS,Master,intermediate,night shift,30
+831,physician,Houston,CPR ACLS BLS,Master,entry-level,day shift,19
+832,physician,Philadelphia,BLS ACLS NRP PALS,Master,advanced,full-time,17
+833,physician,Los Angeles,BLS NRP PALS CPR,Master,intermediate,day shift,10
+834,physician,Los Angeles,PALS CPR ACLS NRP,Master,intermediate,full-time,29
+835,physician,Houston,ACLS PALS CPR,Master,intermediate,part-time,24
+836,physician,Los Angeles,NRP BLS PALS CPR,Master,intermediate,night shift,15
+837,physician,New York,CPR BLS,Master,entry-level,full-time,13
+838,physician,Houston,ACLS BLS,Master,intermediate,night shift,28
+839,physician,Chicago,CPR ACLS BLS PALS,Master,advanced,full-time,7
+840,physician,Los Angeles,ACLS NRP BLS,Master,entry-level,night shift,30
+841,physician,Chicago,CPR BLS NRP,Master,entry-level,full-time,14
+842,physician,New York,CPR PALS,Master,advanced,night shift,2
+843,physician,Philadelphia,PALS ACLS NRP CPR,Master,advanced,full-time,20
+844,physician,New York,CPR PALS ACLS BLS,Master,intermediate,night shift,13
+845,physician,Los Angeles,BLS PALS NRP ACLS,Master,intermediate,full-time,4
+846,physician,Houston,ACLS BLS NRP PALS CPR,Master,entry-level,full-time,8
+847,physician,Chicago,ACLS CPR BLS PALS NRP,Master,intermediate,day shift,5
+848,physician,Philadelphia,BLS CPR,Master,entry-level,full-time,19
+849,physician,Los Angeles,ACLS,Master,advanced,part-time,22
+850,physician,Los Angeles,NRP PALS BLS,Master,intermediate,night shift,27
+851,physician,New York,CPR ACLS,Master,entry-level,full-time,25
+852,physician,New York,CPR BLS,Master,advanced,part-time,26
+853,physician,Los Angeles,NRP CPR ACLS BLS PALS,Master,intermediate,day shift,10
+854,physician,New York,BLS PALS CPR NRP,Master,entry-level,day shift,7
+855,physician,Houston,CPR BLS NRP ACLS PALS,Master,advanced,night shift,24
+856,physician,Houston,CPR ACLS BLS PALS NRP,Master,entry-level,full-time,17
+857,physician,Philadelphia,BLS PALS,Master,intermediate,full-time,24
+858,physician,Los Angeles,BLS,Master,entry-level,full-time,15
+859,physician,New York,CPR NRP BLS PALS,Master,entry-level,day shift,1
+860,physician,Chicago,NRP CPR PALS ACLS,Master,advanced,part-time,14
+861,physician,Philadelphia,BLS ACLS PALS CPR,Master,advanced,night shift,11
+862,physician,Los Angeles,BLS,Master,intermediate,full-time,29
+863,physician,Philadelphia,BLS PALS NRP ACLS,Master,advanced,part-time,5
+864,physician,Los Angeles,ACLS,Master,entry-level,full-time,3
+865,physician,Los Angeles,BLS PALS CPR ACLS,Master,intermediate,full-time,8
+866,physician,Houston,ACLS,Master,advanced,day shift,25
+867,physician,Philadelphia,BLS ACLS PALS,Master,intermediate,part-time,5
+868,physician,Houston,CPR ACLS NRP BLS PALS,Master,entry-level,part-time,17
+869,physician,Philadelphia,NRP ACLS PALS CPR BLS,Master,entry-level,full-time,3
+870,physician,New York,CPR ACLS PALS NRP,Master,entry-level,day shift,21
+871,physician,Los Angeles,BLS ACLS PALS,Master,advanced,day shift,12
+872,physician,New York,NRP BLS PALS CPR,Master,advanced,day shift,30
+873,physician,New York,ACLS NRP PALS,Master,intermediate,night shift,2
+874,physician,New York,BLS CPR,Master,intermediate,night shift,3
+875,physician,Houston,BLS ACLS PALS,Master,entry-level,night shift,21
+876,physician,Houston,CPR ACLS,Master,entry-level,night shift,17
+877,physician,New York,BLS NRP ACLS,Master,advanced,night shift,22
+878,physician,Chicago,CPR ACLS PALS,Master,advanced,part-time,5
+879,physician,Los Angeles,CPR PALS NRP,Master,entry-level,day shift,9
+880,physician,Philadelphia,PALS,Master,intermediate,full-time,1
+881,physician,Los Angeles,ACLS PALS BLS CPR NRP,Master,entry-level,night shift,5
+882,physician,Philadelphia,ACLS,Master,advanced,night shift,16
+883,physician,Philadelphia,ACLS BLS,Master,advanced,night shift,17
+884,physician,New York,CPR BLS,Master,entry-level,night shift,3
+885,physician,Los Angeles,NRP CPR BLS,Master,entry-level,night shift,13
+886,physician,Philadelphia,ACLS BLS CPR PALS,Master,advanced,night shift,22
+887,physician,Philadelphia,BLS ACLS,Master,advanced,part-time,24
+888,physician,Houston,BLS PALS,Master,intermediate,part-time,29
+889,physician,Chicago,NRP CPR PALS BLS ACLS,Master,intermediate,night shift,16
+890,physician,Houston,ACLS,Master,intermediate,day shift,17
+891,physician,Chicago,NRP PALS BLS,Master,entry-level,night shift,1
+892,physician,Houston,NRP,Master,entry-level,night shift,29
+893,physician,Chicago,BLS CPR ACLS,Master,intermediate,night shift,3
+894,physician,Philadelphia,PALS ACLS CPR BLS,Master,entry-level,full-time,9
+895,physician,Chicago,BLS NRP CPR ACLS PALS,Master,advanced,night shift,26
+896,physician,New York,PALS NRP CPR,Master,advanced,day shift,8
+897,physician,New York,PALS ACLS NRP,Master,entry-level,night shift,29
+898,physician,New York,PALS NRP ACLS,Master,entry-level,night shift,9
+899,physician,New York,CPR NRP,Master,intermediate,night shift,27
+900,physician,New York,ACLS PALS,Master,entry-level,day shift,4
+901,physician,Houston,PALS,Master,entry-level,day shift,6
+902,physician,Chicago,PALS BLS NRP CPR ACLS,Master,advanced,full-time,15
+903,physician,Chicago,BLS ACLS CPR NRP,Master,intermediate,part-time,29
+904,physician,Houston,BLS NRP,Master,entry-level,full-time,18
+905,physician,Los Angeles,PALS NRP,Master,entry-level,part-time,27
+906,physician,New York,NRP ACLS PALS CPR BLS,Master,advanced,night shift,26
+907,physician,Los Angeles,CPR,Master,intermediate,day shift,10
+908,physician,New York,CPR,Master,entry-level,part-time,20
+909,physician,Philadelphia,ACLS CPR BLS,Master,advanced,part-time,11
+910,physician,Philadelphia,PALS NRP CPR ACLS,Master,entry-level,night shift,22
+911,physician,Chicago,NRP PALS ACLS,Master,entry-level,full-time,23
+912,physician,New York,ACLS,Master,advanced,full-time,29
+913,physician,Chicago,NRP,Master,advanced,full-time,20
+914,physician,Philadelphia,NRP CPR BLS PALS ACLS,Master,intermediate,night shift,6
+915,physician,Chicago,PALS NRP BLS ACLS,Master,advanced,full-time,20
+916,physician,Philadelphia,PALS BLS CPR NRP,Master,advanced,full-time,30
+917,physician,New York,ACLS NRP BLS CPR PALS,Master,entry-level,day shift,5
+918,physician,New York,PALS ACLS NRP,Master,advanced,night shift,26
+919,physician,Los Angeles,ACLS,Master,advanced,day shift,14
+920,physician,Philadelphia,PALS CPR,Master,advanced,full-time,27
+921,physician,Philadelphia,NRP CPR BLS ACLS,Master,entry-level,day shift,5
+922,physician,Los Angeles,PALS ACLS,Master,advanced,day shift,8
+923,physician,Philadelphia,NRP ACLS CPR BLS PALS,Master,intermediate,day shift,23
+924,physician,Chicago,PALS NRP BLS ACLS CPR,Master,intermediate,full-time,3
+925,physician,Chicago,CPR BLS PALS ACLS NRP,Master,entry-level,full-time,30
+926,physician,New York,NRP BLS,Master,entry-level,full-time,15
+927,physician,Philadelphia,CPR BLS PALS,Master,intermediate,day shift,30
+928,physician,New York,CPR,Master,advanced,night shift,26
+929,physician,New York,PALS BLS CPR NRP ACLS,Master,intermediate,part-time,13
+930,physician,Los Angeles,ACLS PALS NRP CPR BLS,Master,intermediate,night shift,17
+931,physician,Chicago,PALS ACLS,Master,intermediate,day shift,29
+932,physician,Philadelphia,NRP CPR ACLS,Master,advanced,day shift,30
+933,physician,Houston,CPR ACLS PALS BLS,Master,intermediate,day shift,5
+934,physician,New York,ACLS,Master,entry-level,part-time,26
+935,physician,Los Angeles,CPR PALS,Master,advanced,part-time,24
+936,physician,Philadelphia,ACLS PALS CPR NRP BLS,Master,advanced,part-time,23
+937,physician,New York,BLS ACLS CPR,Master,advanced,part-time,7
+938,physician,New York,CPR ACLS,Master,entry-level,day shift,14
+939,physician,Los Angeles,NRP ACLS BLS CPR PALS,Master,advanced,part-time,1
+940,physician,New York,BLS ACLS PALS CPR,Master,intermediate,full-time,27
+941,physician,Chicago,NRP BLS CPR ACLS,Master,entry-level,night shift,17
+942,physician,Chicago,CPR BLS ACLS,Master,entry-level,night shift,9
+943,physician,Philadelphia,BLS ACLS NRP,Master,advanced,full-time,19
+944,physician,Houston,CPR NRP BLS,Master,intermediate,full-time,19
+945,physician,Chicago,CPR ACLS NRP PALS,Master,entry-level,part-time,3
+946,physician,Chicago,ACLS CPR,Master,intermediate,night shift,13
+947,physician,Houston,PALS,Master,advanced,day shift,13
+948,physician,Philadelphia,NRP CPR BLS PALS,Master,entry-level,part-time,18
+949,physician,Houston,CPR PALS ACLS NRP BLS,Master,advanced,full-time,21
+950,physician,Philadelphia,PALS ACLS BLS NRP,Master,entry-level,day shift,18
+951,physician,Los Angeles,PALS,Master,entry-level,day shift,15
+952,physician,Chicago,PALS BLS ACLS,Master,advanced,full-time,17
+953,physician,Chicago,ACLS,Master,entry-level,day shift,11
+954,physician,Chicago,BLS PALS CPR ACLS,Master,entry-level,part-time,20
+955,physician,Houston,PALS NRP BLS,Master,advanced,day shift,1
+956,physician,Philadelphia,NRP,Master,entry-level,full-time,27
+957,physician,Philadelphia,BLS PALS,Master,entry-level,part-time,29
+958,physician,Philadelphia,NRP PALS BLS ACLS CPR,Master,intermediate,full-time,28
+959,physician,Chicago,ACLS PALS NRP BLS CPR,Master,entry-level,day shift,6
+960,physician,Los Angeles,NRP PALS,Master,entry-level,full-time,3
+961,physician,New York,NRP ACLS CPR,Master,advanced,full-time,15
+962,physician,New York,ACLS NRP PALS CPR,Master,entry-level,night shift,11
+963,physician,New York,PALS BLS,Master,advanced,part-time,16
+964,physician,Chicago,NRP CPR PALS BLS ACLS,Master,intermediate,night shift,23
+965,physician,New York,PALS ACLS CPR NRP BLS,Master,entry-level,part-time,22
+966,physician,Los Angeles,ACLS,Master,intermediate,day shift,23
+967,physician,New York,CPR BLS PALS NRP,Master,intermediate,night shift,18
+968,physician,New York,CPR ACLS NRP,Master,intermediate,full-time,2
+969,physician,Los Angeles,CPR PALS BLS NRP,Master,advanced,day shift,28
+970,physician,Philadelphia,NRP CPR BLS,Master,advanced,night shift,7
+971,physician,Chicago,CPR PALS NRP BLS,Master,intermediate,day shift,20
+972,physician,New York,ACLS,Master,intermediate,part-time,4
+973,physician,Philadelphia,CPR,Master,advanced,part-time,19
+974,physician,Los Angeles,CPR NRP,Master,advanced,part-time,4
+975,physician,Philadelphia,CPR ACLS BLS PALS NRP,Master,advanced,full-time,7
+976,physician,Houston,BLS,Master,entry-level,day shift,15
+977,physician,Los Angeles,PALS,Master,advanced,day shift,25
+978,physician,Los Angeles,NRP,Master,advanced,part-time,17
+979,physician,Houston,CPR,Master,advanced,night shift,8
+980,physician,New York,BLS CPR NRP,Master,intermediate,night shift,20
+981,physician,Philadelphia,CPR ACLS PALS BLS,Master,entry-level,full-time,27
+982,physician,Los Angeles,ACLS,Master,entry-level,night shift,27
+983,physician,Philadelphia,CPR BLS ACLS,Master,advanced,night shift,17
+984,physician,Chicago,ACLS NRP CPR BLS PALS,Master,intermediate,day shift,8
+985,physician,Philadelphia,BLS ACLS CPR PALS NRP,Master,entry-level,part-time,2
+986,physician,New York,NRP ACLS CPR,Master,entry-level,day shift,15
+987,physician,Los Angeles,NRP CPR,Master,advanced,part-time,1
+988,physician,Chicago,ACLS NRP BLS PALS CPR,Master,advanced,full-time,7
+989,physician,Houston,BLS NRP,Master,entry-level,full-time,9
+990,physician,Philadelphia,BLS CPR PALS NRP,Master,entry-level,night shift,17
+991,physician,Houston,CPR BLS NRP PALS,Master,entry-level,part-time,25
+992,physician,New York,ACLS CPR PALS,Master,intermediate,part-time,9
+993,physician,Houston,PALS NRP,Master,intermediate,night shift,24
+994,physician,New York,PALS ACLS,Master,advanced,part-time,16
+995,physician,Los Angeles,NRP BLS PALS CPR,Master,advanced,full-time,21
+996,physician,Houston,NRP ACLS CPR PALS BLS,Master,intermediate,full-time,3
+997,physician,Philadelphia,PALS CPR,Master,advanced,full-time,27
+998,physician,Chicago,CPR PALS ACLS,Master,entry-level,day shift,20
+999,physician,Chicago,CPR,Master,entry-level,day shift,1
+1000,physician,Houston,ACLS PALS CPR,Master,advanced,full-time,18
+1001,physician,Los Angeles,PALS CPR,Master,entry-level,full-time,7
+1002,physician,New York,BLS PALS NRP,Master,intermediate,day shift,16
+1003,physician,Houston,CPR ACLS NRP PALS,Master,advanced,full-time,27
+1004,physician,Houston,ACLS BLS CPR NRP PALS,Master,entry-level,day shift,22
+1005,physician,Philadelphia,NRP PALS ACLS CPR,Master,advanced,full-time,18
+1006,physician,Chicago,PALS BLS CPR NRP,Master,entry-level,day shift,29
+1007,physician,Chicago,BLS ACLS NRP PALS,Master,entry-level,night shift,16
+1008,physician,Los Angeles,NRP PALS,Master,advanced,day shift,14
+1009,physician,Philadelphia,PALS BLS ACLS CPR NRP,Master,advanced,day shift,1
+1010,physician,Los Angeles,BLS ACLS,Master,entry-level,part-time,9
+1011,physician,Chicago,BLS CPR PALS NRP ACLS,Master,entry-level,day shift,20
+1012,physician,Los Angeles,ACLS PALS NRP CPR,Master,entry-level,part-time,12
+1013,physician,Philadelphia,CPR,Master,intermediate,day shift,29
+1014,physician,Houston,CPR NRP BLS ACLS PALS,Master,intermediate,day shift,8
+1015,physician,Houston,CPR,Master,advanced,day shift,28
+1016,physician,New York,NRP BLS ACLS CPR,Master,advanced,day shift,24
+1017,physician,New York,ACLS NRP BLS PALS CPR,Master,intermediate,day shift,19
+1018,physician,Chicago,PALS BLS NRP ACLS CPR,Master,advanced,day shift,11
+1019,physician,Chicago,ACLS NRP BLS PALS CPR,Master,intermediate,night shift,5
+1020,physician,Chicago,NRP,Master,advanced,day shift,9
+1021,physician,Houston,CPR BLS,Master,intermediate,full-time,14
+1022,physician,Houston,PALS BLS NRP,Master,entry-level,day shift,25
+1023,physician,New York,ACLS,Master,advanced,night shift,23
+1024,physician,Chicago,CPR NRP PALS BLS ACLS,Master,entry-level,part-time,8
+1025,physician,Los Angeles,ACLS NRP CPR,Master,entry-level,night shift,25
+1026,physician,Philadelphia,ACLS CPR PALS,Master,intermediate,night shift,5
+1027,physician,Chicago,CPR BLS ACLS PALS,Master,intermediate,full-time,8
+1028,physician,Philadelphia,ACLS CPR NRP,Master,intermediate,full-time,2
+1029,physician,Chicago,PALS,Master,intermediate,day shift,7
+1030,physician,Chicago,BLS ACLS CPR PALS NRP,Master,intermediate,night shift,25
+1031,physician,New York,BLS,Master,intermediate,day shift,22
+1032,physician,New York,CPR,Master,entry-level,night shift,20
+1033,physician,Houston,BLS CPR PALS,Master,advanced,part-time,2
+1034,physician,Los Angeles,BLS,Master,intermediate,full-time,11
+1035,physician,Houston,BLS PALS CPR NRP,Master,entry-level,day shift,12
+1036,physician,Houston,NRP ACLS PALS,Master,entry-level,part-time,26
+1037,physician,Chicago,PALS BLS NRP CPR,Master,entry-level,day shift,7
+1038,physician,Chicago,PALS ACLS,Master,intermediate,night shift,1
+1039,physician,New York,CPR ACLS PALS NRP,Master,advanced,day shift,22
+1040,physician,Los Angeles,CPR NRP,Master,entry-level,night shift,23
+1041,physician,Philadelphia,NRP BLS CPR PALS ACLS,Master,entry-level,part-time,8
+1042,physician,New York,PALS ACLS BLS,Master,entry-level,part-time,25
+1043,physician,Philadelphia,ACLS CPR PALS NRP,Master,advanced,part-time,11
+1044,physician,New York,BLS ACLS,Master,intermediate,part-time,19
+1045,physician,Chicago,ACLS PALS NRP BLS CPR,Master,entry-level,day shift,21
+1046,physician,Los Angeles,NRP ACLS CPR BLS,Master,advanced,part-time,5
+1047,physician,Chicago,PALS NRP CPR BLS,Master,entry-level,day shift,28
+1048,physician,Chicago,ACLS,Master,advanced,night shift,23
+1049,physician,Houston,NRP ACLS,Master,entry-level,full-time,17
+1050,physician,Houston,BLS PALS ACLS,Master,intermediate,day shift,9
+1051,physician,Chicago,NRP ACLS,Master,advanced,night shift,7
+1052,physician,Los Angeles,CPR NRP PALS ACLS BLS,Master,entry-level,full-time,13
+1053,physician,Philadelphia,CPR NRP BLS PALS ACLS,Master,intermediate,night shift,9
+1054,physician,Philadelphia,ACLS NRP PALS,Master,intermediate,day shift,2
+1055,physician,Philadelphia,NRP,Master,intermediate,night shift,23
+1056,physician,Los Angeles,BLS CPR,Master,intermediate,night shift,15
+1057,physician,Los Angeles,ACLS NRP BLS,Master,intermediate,full-time,14
+1058,physician,Houston,PALS,Master,intermediate,night shift,4
+1059,physician,Chicago,PALS NRP ACLS BLS CPR,Master,advanced,night shift,6
+1060,physician,Philadelphia,BLS ACLS,Master,entry-level,full-time,11
+1061,physician,Philadelphia,NRP CPR,Master,entry-level,day shift,1
+1062,physician,New York,PALS NRP BLS,Master,intermediate,part-time,14
+1063,physician,Philadelphia,PALS NRP BLS ACLS,Master,entry-level,night shift,13
+1064,physician,Los Angeles,NRP PALS ACLS,Master,entry-level,part-time,29
+1065,physician,Los Angeles,NRP ACLS CPR PALS,Master,advanced,day shift,7
+1066,physician,Philadelphia,PALS CPR BLS ACLS NRP,Master,entry-level,night shift,13
+1067,physician,Chicago,BLS PALS CPR NRP,Master,entry-level,part-time,27
+1068,physician,New York,BLS,Master,entry-level,full-time,4
+1069,physician,Philadelphia,CPR PALS BLS ACLS NRP,Master,intermediate,night shift,30
+1070,physician,Philadelphia,PALS ACLS,Master,entry-level,part-time,25
+1071,physician,Philadelphia,ACLS PALS BLS,Master,intermediate,day shift,7
+1072,physician,New York,NRP PALS CPR,Master,entry-level,night shift,17
+1073,physician,New York,ACLS,Master,intermediate,full-time,6
+1074,physician,Los Angeles,BLS ACLS CPR NRP PALS,Master,entry-level,part-time,19
+1075,physician,Chicago,CPR ACLS,Master,advanced,full-time,29
+1076,physician,Los Angeles,ACLS,Master,advanced,part-time,28
+1077,physician,Chicago,NRP ACLS,Master,intermediate,night shift,8
+1078,physician,Houston,PALS NRP ACLS,Master,intermediate,night shift,22
+1079,physician,Houston,BLS,Master,advanced,full-time,20
+1080,physician,Houston,PALS BLS ACLS CPR NRP,Master,intermediate,day shift,12
+1081,physician,Chicago,BLS PALS CPR ACLS,Master,intermediate,night shift,17
+1082,physician,Los Angeles,NRP CPR,Master,advanced,night shift,23
+1083,physician,Philadelphia,PALS NRP ACLS CPR,Master,advanced,night shift,27
+1084,physician,Chicago,PALS,Master,advanced,full-time,19
+1085,physician,New York,NRP BLS CPR,Master,intermediate,night shift,12
+1086,physician,Philadelphia,PALS ACLS CPR,Master,intermediate,day shift,3
+1087,physician,Los Angeles,CPR,Master,entry-level,part-time,3
+1088,physician,New York,CPR BLS ACLS PALS,Master,intermediate,part-time,13
+1089,physician,Houston,ACLS BLS NRP CPR,Master,intermediate,day shift,19
+1090,physician,Chicago,CPR ACLS,Master,advanced,night shift,11
+1091,physician,Houston,PALS,Master,advanced,night shift,7
+1092,physician,Los Angeles,BLS CPR,Master,intermediate,night shift,25
+1093,physician,Chicago,CPR PALS ACLS NRP,Master,entry-level,part-time,17
+1094,physician,Los Angeles,ACLS BLS NRP,Master,intermediate,day shift,20
+1095,physician,Houston,CPR BLS PALS,Master,entry-level,night shift,21
+1096,physician,Chicago,BLS NRP ACLS,Master,intermediate,day shift,14
+1097,physician,Chicago,PALS,Master,intermediate,day shift,20
+1098,physician,Chicago,PALS ACLS NRP BLS CPR,Master,advanced,day shift,1
+1099,physician,Los Angeles,PALS,Master,entry-level,day shift,8
+1100,physician,Philadelphia,CPR ACLS,Master,intermediate,part-time,24
+1101,physician,Los Angeles,BLS NRP CPR PALS,Master,intermediate,day shift,9
+1102,physician,Chicago,CPR,Master,entry-level,day shift,5
+1103,physician,Houston,NRP,Master,entry-level,part-time,16
+1104,physician,Los Angeles,NRP ACLS CPR,Master,entry-level,night shift,14
+1105,physician,New York,NRP,Master,advanced,full-time,20
+1106,physician,Houston,ACLS CPR BLS,Master,advanced,full-time,28
+1107,physician,Houston,CPR PALS,Master,intermediate,day shift,7
+1108,physician,Houston,NRP,Master,intermediate,full-time,24
+1109,physician,Houston,BLS PALS,Master,entry-level,part-time,15
+1110,physician,Houston,CPR NRP PALS BLS,Master,entry-level,day shift,11
+1111,physician,Los Angeles,NRP,Master,intermediate,night shift,4
+1112,physician,New York,BLS,Master,advanced,full-time,6
+1113,physician,Chicago,NRP,Master,advanced,part-time,21
+1114,physician,Chicago,NRP ACLS BLS,Master,entry-level,day shift,14
+1115,physician,Philadelphia,CPR ACLS,Master,advanced,part-time,20
+1116,physician,Philadelphia,PALS ACLS NRP CPR BLS,Master,entry-level,day shift,11
+1117,physician,Houston,PALS,Master,advanced,full-time,22
+1118,physician,New York,BLS,Master,entry-level,full-time,20
+1119,physician,New York,CPR,Master,advanced,part-time,30
+1120,physician,Houston,NRP ACLS,Master,entry-level,night shift,29
+1121,physician,Los Angeles,BLS PALS,Master,advanced,full-time,24
+1122,physician,Philadelphia,CPR ACLS PALS,Master,intermediate,day shift,21
+1123,physician,Philadelphia,PALS NRP BLS CPR,Master,intermediate,night shift,3
+1124,physician,Los Angeles,CPR BLS,Master,intermediate,part-time,18
+1125,physician,Houston,ACLS,Master,intermediate,full-time,28
+1126,physician,Chicago,ACLS NRP CPR,Master,intermediate,day shift,11
+1127,physician,Los Angeles,BLS,Master,entry-level,full-time,22
+1128,physician,Los Angeles,BLS PALS NRP ACLS CPR,Master,intermediate,night shift,9
+1129,physician,Chicago,PALS CPR BLS ACLS,Master,advanced,part-time,24
+1130,physician,Houston,NRP BLS,Master,entry-level,night shift,25
+1131,physician,Houston,CPR PALS NRP BLS ACLS,Master,intermediate,night shift,24
+1132,physician,New York,ACLS BLS NRP,Master,intermediate,part-time,1
+1133,physician,Philadelphia,CPR PALS,Master,advanced,part-time,27
+1134,physician,Houston,PALS NRP BLS CPR,Master,entry-level,full-time,29
+1135,physician,Philadelphia,ACLS,Master,advanced,part-time,8
+1136,physician,Philadelphia,NRP PALS BLS,Master,advanced,full-time,23
+1137,physician,Chicago,BLS NRP ACLS CPR,Master,intermediate,full-time,14
+1138,physician,Philadelphia,CPR BLS PALS,Master,advanced,part-time,9
+1139,physician,New York,BLS ACLS CPR PALS,Master,intermediate,part-time,27
+1140,physician,New York,ACLS CPR,Master,advanced,part-time,27
+1141,physician,Chicago,PALS CPR BLS NRP,Master,advanced,night shift,19
+1142,physician,New York,PALS BLS NRP,Master,intermediate,day shift,22
+1143,physician,Houston,NRP CPR PALS BLS ACLS,Master,intermediate,night shift,9
+1144,physician,Chicago,BLS CPR,Master,entry-level,day shift,19
+1145,physician,Houston,BLS PALS NRP CPR ACLS,Master,intermediate,day shift,6
+1146,physician,Los Angeles,CPR PALS NRP BLS ACLS,Master,advanced,day shift,15
+1147,physician,Houston,BLS NRP CPR PALS ACLS,Master,intermediate,night shift,22
+1148,physician,Houston,PALS BLS ACLS CPR,Master,advanced,night shift,30
+1149,physician,Philadelphia,PALS CPR NRP ACLS BLS,Master,intermediate,full-time,11
+1150,physician,Philadelphia,PALS CPR BLS ACLS,Master,entry-level,part-time,15
+1151,physician,New York,PALS CPR,Master,intermediate,day shift,5
+1152,physician,Los Angeles,CPR ACLS NRP PALS,Master,entry-level,part-time,9
+1153,physician,Houston,ACLS BLS NRP PALS CPR,Master,entry-level,night shift,27
+1154,physician,New York,ACLS PALS,Master,intermediate,night shift,10
+1155,physician,Philadelphia,NRP BLS PALS CPR,Master,entry-level,part-time,6
+1156,physician,Chicago,PALS NRP BLS,Master,advanced,part-time,1
+1157,physician,Houston,NRP ACLS BLS,Master,intermediate,night shift,3
+1158,physician,Los Angeles,ACLS CPR,Master,intermediate,full-time,9
+1159,physician,Los Angeles,BLS ACLS,Master,advanced,full-time,26
+1160,physician,Los Angeles,PALS NRP,Master,entry-level,full-time,27
+1161,physician,New York,CPR PALS,Master,entry-level,night shift,26
+1162,physician,Los Angeles,PALS ACLS CPR,Master,advanced,night shift,21
+1163,physician,Philadelphia,NRP,Master,advanced,part-time,20
+1164,physician,Los Angeles,ACLS NRP CPR PALS,Master,advanced,night shift,29
+1165,physician,Los Angeles,BLS PALS NRP CPR ACLS,Master,entry-level,part-time,26
+1166,physician,New York,PALS CPR,Master,entry-level,full-time,8
+1167,physician,Philadelphia,ACLS,Master,advanced,day shift,19
+1168,physician,Chicago,BLS PALS NRP CPR ACLS,Master,entry-level,day shift,23
+1169,physician,Philadelphia,ACLS,Master,advanced,full-time,17
+1170,physician,Houston,PALS ACLS BLS NRP,Master,entry-level,full-time,5
+1171,physician,Philadelphia,NRP CPR ACLS BLS,Master,entry-level,part-time,1
+1172,physician,Houston,ACLS BLS NRP CPR PALS,Master,intermediate,part-time,3
+1173,physician,Los Angeles,CPR,Master,entry-level,part-time,28
+1174,physician,Philadelphia,BLS ACLS CPR,Master,advanced,part-time,22
+1175,physician,Houston,PALS,Master,intermediate,night shift,19
+1176,physician,New York,ACLS,Master,advanced,night shift,14
+1177,physician,New York,NRP,Master,advanced,day shift,9
+1178,physician,New York,BLS CPR,Master,intermediate,part-time,9
+1179,physician,Philadelphia,ACLS,Master,entry-level,night shift,25
+1180,physician,Philadelphia,CPR NRP BLS,Master,intermediate,full-time,9
+1181,physician,Los Angeles,BLS CPR PALS ACLS NRP,Master,intermediate,night shift,2
+1182,physician,Chicago,NRP BLS PALS CPR ACLS,Master,entry-level,full-time,27
+1183,physician,Houston,CPR BLS NRP,Master,intermediate,day shift,25
+1184,physician,Philadelphia,BLS NRP PALS ACLS CPR,Master,advanced,part-time,12
+1185,physician,Houston,BLS ACLS PALS CPR NRP,Master,entry-level,part-time,3
+1186,physician,Houston,PALS CPR,Master,advanced,part-time,10
+1187,physician,Houston,PALS ACLS,Master,intermediate,day shift,20
+1188,physician,New York,BLS PALS,Master,entry-level,part-time,13
+1189,physician,Houston,CPR BLS NRP PALS ACLS,Master,advanced,day shift,14
+1190,physician,Los Angeles,CPR PALS ACLS BLS,Master,entry-level,night shift,13
+1191,physician,Los Angeles,ACLS,Master,entry-level,full-time,9
+1192,physician,Los Angeles,ACLS,Master,entry-level,night shift,16
+1193,physician,New York,NRP BLS CPR PALS ACLS,Master,intermediate,day shift,11
+1194,physician,Houston,CPR PALS,Master,advanced,day shift,5
+1195,physician,Philadelphia,NRP ACLS BLS PALS,Master,entry-level,day shift,9
+1196,physician,Chicago,CPR BLS PALS,Master,advanced,night shift,19
+1197,physician,Los Angeles,CPR ACLS PALS,Master,intermediate,night shift,22
+1198,physician,Houston,PALS NRP,Master,intermediate,part-time,24
+1199,physician,New York,CPR NRP BLS,Master,advanced,day shift,12
+1200,physician,Chicago,PALS NRP CPR BLS,Master,entry-level,day shift,19
+1201,physician,Los Angeles,BLS PALS CPR NRP,Master,advanced,full-time,16
+1202,physician,Philadelphia,PALS CPR NRP ACLS BLS,Master,entry-level,part-time,17
+1203,physician,New York,NRP PALS BLS ACLS,Master,intermediate,night shift,2
+1204,physician,New York,PALS NRP ACLS BLS CPR,Master,advanced,day shift,24
+1205,physician,Houston,BLS CPR ACLS,Master,intermediate,day shift,21
+1206,physician,Los Angeles,CPR NRP PALS,Master,intermediate,night shift,30
+1207,physician,Chicago,BLS CPR ACLS,Master,intermediate,day shift,11
+1208,physician,Philadelphia,BLS PALS NRP CPR,Master,advanced,night shift,17
+1209,physician,Chicago,ACLS PALS CPR BLS,Master,intermediate,night shift,16
+1210,physician,Chicago,PALS CPR BLS,Master,intermediate,day shift,15
+1211,physician,Los Angeles,NRP BLS CPR ACLS,Master,advanced,full-time,17
+1212,physician,New York,CPR BLS,Master,entry-level,day shift,26
+1213,physician,Houston,BLS CPR PALS NRP ACLS,Master,intermediate,night shift,27
+1214,physician,Chicago,PALS,Master,intermediate,day shift,15
+1215,physician,Los Angeles,CPR PALS NRP,Master,intermediate,night shift,26
+1216,physician,Houston,NRP CPR BLS ACLS PALS,Master,entry-level,full-time,20
+1217,physician,Chicago,ACLS BLS NRP,Master,entry-level,day shift,23
+1218,physician,Los Angeles,ACLS CPR PALS NRP BLS,Master,entry-level,full-time,24
+1219,physician,Houston,NRP,Master,advanced,day shift,14
+1220,physician,Houston,ACLS CPR,Master,intermediate,full-time,30
+1221,physician,Los Angeles,CPR PALS BLS NRP,Master,intermediate,night shift,2
+1222,physician,Chicago,BLS ACLS NRP CPR PALS,Master,intermediate,night shift,20
+1223,physician,Chicago,ACLS,Master,intermediate,day shift,27
+1224,physician,Philadelphia,ACLS NRP CPR,Master,advanced,night shift,2
+1225,physician,New York,ACLS,Master,advanced,day shift,18
+1226,physician,Houston,BLS NRP PALS CPR,Master,entry-level,part-time,14
+1227,physician,New York,ACLS CPR NRP BLS,Master,intermediate,full-time,25
+1228,physician,Los Angeles,CPR PALS ACLS,Master,advanced,day shift,14
+1229,physician,Chicago,PALS ACLS,Master,intermediate,full-time,14
+1230,physician,Chicago,ACLS BLS,Master,entry-level,night shift,19
+1231,physician,Los Angeles,ACLS PALS BLS CPR NRP,Master,advanced,full-time,13
+1232,physician,Chicago,BLS NRP PALS CPR,Master,entry-level,part-time,7
+1233,physician,Houston,CPR PALS BLS ACLS,Master,advanced,night shift,1
+1234,physician,Houston,ACLS BLS,Master,intermediate,part-time,9
+1235,physician,New York,CPR PALS NRP ACLS,Master,intermediate,part-time,2
+1236,physician,Chicago,NRP ACLS BLS CPR,Master,advanced,day shift,19
+1237,physician,Los Angeles,CPR,Master,intermediate,night shift,21
+1238,physician,Los Angeles,BLS ACLS NRP,Master,entry-level,day shift,4
+1239,physician,Chicago,BLS CPR PALS ACLS,Master,entry-level,full-time,14
+1240,physician,Philadelphia,CPR ACLS BLS,Master,intermediate,night shift,27
+1241,physician,Philadelphia,PALS NRP BLS ACLS,Master,advanced,full-time,15
+1242,physician,New York,BLS NRP ACLS,Master,intermediate,night shift,13
+1243,physician,Houston,PALS,Master,intermediate,full-time,7
+1244,physician,Philadelphia,ACLS PALS CPR NRP BLS,Master,intermediate,full-time,26
+1245,physician,Chicago,PALS ACLS CPR,Master,advanced,full-time,19
+1246,physician,Philadelphia,CPR BLS ACLS NRP,Master,advanced,full-time,30
+1247,physician,Philadelphia,BLS,Master,intermediate,night shift,7
+1248,physician,New York,PALS NRP BLS CPR ACLS,Master,advanced,full-time,26
+1249,physician,Los Angeles,CPR NRP PALS,Master,entry-level,day shift,11
+1250,physician,Houston,CPR PALS NRP,Master,entry-level,night shift,9
+1251,physician,Los Angeles,ACLS NRP CPR PALS,Master,entry-level,day shift,4
+1252,physician,Los Angeles,PALS CPR BLS ACLS NRP,Master,advanced,full-time,7
+1253,physician,New York,ACLS NRP BLS PALS CPR,Master,advanced,full-time,22
+1254,physician,Los Angeles,NRP CPR,Master,advanced,part-time,18
+1255,physician,Houston,ACLS,Master,advanced,part-time,24
+1256,physician,Los Angeles,ACLS BLS,Master,advanced,night shift,30
+1257,physician,Chicago,CPR NRP,Master,advanced,part-time,14
+1258,physician,Chicago,NRP,Master,advanced,full-time,30
+1259,physician,New York,NRP ACLS CPR,Master,intermediate,part-time,30
+1260,physician,Philadelphia,PALS CPR ACLS BLS,Master,intermediate,full-time,3
+1261,physician,Los Angeles,ACLS BLS,Master,intermediate,day shift,10
+1262,physician,Houston,ACLS BLS PALS NRP CPR,Master,intermediate,day shift,20
+1263,physician,Chicago,ACLS NRP BLS CPR PALS,Master,intermediate,full-time,24
+1264,physician,New York,PALS NRP,Master,advanced,night shift,24
+1265,physician,Houston,BLS PALS ACLS NRP,Master,advanced,day shift,15
+1266,physician,Chicago,CPR ACLS,Master,advanced,night shift,25
+1267,physician,Los Angeles,CPR BLS,Master,entry-level,day shift,26
+1268,physician,Philadelphia,ACLS CPR NRP,Master,entry-level,day shift,16
+1269,physician,Los Angeles,ACLS CPR,Master,entry-level,day shift,17
+1270,physician,Houston,ACLS PALS,Master,entry-level,full-time,6
+1271,physician,New York,NRP BLS PALS,Master,advanced,day shift,21
+1272,physician,Philadelphia,PALS,Master,entry-level,day shift,21
+1273,physician,Philadelphia,ACLS PALS,Master,advanced,day shift,19
+1274,physician,Chicago,ACLS,Master,entry-level,night shift,23
+1275,physician,New York,CPR ACLS NRP PALS,Master,advanced,day shift,2
+1276,physician,Philadelphia,CPR NRP ACLS,Master,entry-level,night shift,10
+1277,physician,Houston,NRP PALS ACLS BLS CPR,Master,advanced,day shift,14
+1278,physician,Chicago,BLS CPR,Master,entry-level,part-time,28
+1279,physician,Chicago,NRP BLS ACLS,Master,entry-level,day shift,2
+1280,physician,Los Angeles,PALS ACLS CPR NRP BLS,Master,advanced,night shift,10
+1281,physician,New York,CPR NRP,Master,entry-level,day shift,16
+1282,physician,Los Angeles,ACLS,Master,entry-level,day shift,30
+1283,physician,Chicago,BLS PALS NRP,Master,intermediate,day shift,12
+1284,physician,Los Angeles,NRP BLS CPR PALS,Master,entry-level,full-time,28
+1285,physician,Philadelphia,PALS NRP CPR,Master,advanced,part-time,4
+1286,physician,Houston,CPR BLS NRP PALS,Master,advanced,day shift,5
+1287,physician,Philadelphia,BLS PALS ACLS,Master,advanced,full-time,13
+1288,physician,Chicago,PALS,Master,entry-level,full-time,22
+1289,physician,Philadelphia,PALS CPR ACLS NRP,Master,advanced,part-time,22
+1290,physician,Houston,CPR,Master,advanced,full-time,28
+1291,physician,Chicago,NRP,Master,advanced,night shift,14
+1292,physician,New York,ACLS BLS,Master,advanced,night shift,14
+1293,physician,Philadelphia,NRP CPR,Master,intermediate,day shift,13
+1294,physician,New York,NRP PALS BLS ACLS,Master,advanced,day shift,23
+1295,physician,Los Angeles,ACLS,Master,advanced,day shift,13
+1296,physician,New York,CPR ACLS BLS,Master,advanced,night shift,30
+1297,physician,Philadelphia,ACLS,Master,intermediate,night shift,15
+1298,physician,Houston,BLS,Master,advanced,day shift,5
+1299,physician,Philadelphia,ACLS CPR PALS,Master,advanced,part-time,20
+1300,physician,Los Angeles,NRP,Master,intermediate,part-time,21
+1301,physician,Chicago,NRP BLS PALS ACLS CPR,Master,intermediate,day shift,25
+1302,physician,Houston,NRP PALS CPR ACLS BLS,Master,entry-level,day shift,15
+1303,physician,Los Angeles,CPR ACLS,Master,entry-level,full-time,26
+1304,physician,Houston,BLS ACLS PALS CPR NRP,Master,intermediate,day shift,16
+1305,physician,Philadelphia,NRP CPR ACLS,Master,advanced,full-time,16
+1306,physician,New York,ACLS BLS PALS,Master,intermediate,night shift,4
+1307,physician,Los Angeles,NRP BLS,Master,advanced,full-time,17
+1308,physician,Houston,NRP PALS ACLS,Master,intermediate,day shift,12
+1309,physician,Philadelphia,PALS CPR ACLS,Master,entry-level,day shift,20
+1310,physician,Chicago,NRP,Master,intermediate,day shift,25
+1311,physician,Chicago,BLS CPR NRP PALS ACLS,Master,intermediate,full-time,23
+1312,physician,Houston,PALS ACLS BLS CPR NRP,Master,intermediate,part-time,10
+1313,physician,Chicago,NRP PALS CPR ACLS BLS,Master,advanced,full-time,24
+1314,physician,Philadelphia,NRP CPR,Master,intermediate,night shift,19
+1315,physician,Houston,ACLS,Master,entry-level,day shift,9
+1316,physician,Los Angeles,BLS,Master,advanced,night shift,21
+1317,physician,Philadelphia,ACLS NRP BLS CPR,Master,advanced,night shift,8
+1318,physician,New York,NRP BLS CPR PALS,Master,entry-level,full-time,17
+1319,physician,New York,ACLS,Master,entry-level,night shift,6
+1320,physician,Philadelphia,BLS ACLS,Master,entry-level,night shift,27
+1321,physician,Chicago,CPR NRP,Master,entry-level,night shift,21
+1322,physician,Houston,PALS BLS NRP,Master,intermediate,day shift,4
+1323,physician,Los Angeles,BLS NRP CPR ACLS PALS,Master,intermediate,full-time,14
+1324,physician,New York,ACLS PALS NRP,Master,advanced,night shift,3
+1325,physician,Houston,PALS ACLS NRP,Master,intermediate,day shift,2
+1326,physician,Houston,BLS,Master,entry-level,part-time,17
+1327,physician,Philadelphia,BLS ACLS PALS CPR NRP,Master,intermediate,night shift,25
+1328,physician,Chicago,ACLS CPR NRP,Master,intermediate,day shift,29
+1329,physician,Chicago,ACLS,Master,intermediate,full-time,5
+1330,physician,Houston,NRP,Master,intermediate,day shift,15
+1331,physician,Houston,NRP,Master,advanced,part-time,25
+1332,physician,Los Angeles,BLS NRP PALS CPR ACLS,Master,advanced,night shift,18
+1333,physician,New York,PALS NRP CPR ACLS,Master,intermediate,part-time,6
+1334,physician,New York,ACLS BLS,Master,intermediate,night shift,25
+1335,physician,Chicago,CPR ACLS PALS BLS,Master,advanced,day shift,5
+1336,physician,Los Angeles,NRP BLS PALS ACLS CPR,Master,entry-level,night shift,24
+1337,physician,Houston,CPR,Master,intermediate,full-time,21
+1338,physician,Los Angeles,ACLS NRP CPR PALS,Master,intermediate,night shift,8
+1339,physician,Houston,PALS ACLS BLS NRP,Master,entry-level,day shift,28
+1340,physician,Los Angeles,PALS BLS ACLS CPR,Master,intermediate,night shift,30
+1341,physician,Los Angeles,ACLS NRP PALS,Master,entry-level,night shift,9
+1342,physician,Philadelphia,BLS NRP ACLS CPR,Master,intermediate,night shift,29
+1343,physician,Philadelphia,PALS CPR ACLS,Master,intermediate,night shift,8
+1344,physician,New York,ACLS NRP PALS CPR,Master,entry-level,night shift,3
+1345,physician,Houston,NRP PALS,Master,intermediate,night shift,14
+1346,physician,New York,BLS PALS CPR NRP ACLS,Master,entry-level,night shift,27
+1347,physician,New York,PALS ACLS,Master,intermediate,part-time,20
+1348,physician,Philadelphia,ACLS CPR PALS NRP,Master,advanced,full-time,16
+1349,physician,Chicago,PALS BLS NRP ACLS,Master,intermediate,full-time,8
+1350,physician,Chicago,ACLS PALS BLS,Master,intermediate,day shift,11
+1351,physician,Philadelphia,BLS CPR ACLS NRP PALS,Master,entry-level,part-time,10
+1352,physician,Philadelphia,PALS,Master,advanced,night shift,24
+1353,physician,Chicago,CPR PALS ACLS,Master,advanced,night shift,10
+1354,physician,Houston,CPR PALS ACLS,Master,entry-level,part-time,11
+1355,physician,Los Angeles,PALS CPR BLS,Master,advanced,full-time,14
+1356,physician,Los Angeles,PALS ACLS NRP BLS CPR,Master,advanced,day shift,30
+1357,physician,Los Angeles,ACLS,Master,advanced,full-time,5
+1358,physician,Philadelphia,ACLS CPR NRP,Master,entry-level,full-time,1
+1359,physician,Chicago,PALS CPR BLS,Master,intermediate,night shift,5
+1360,physician,Chicago,NRP PALS BLS CPR,Master,intermediate,night shift,15
+1361,physician,Houston,PALS CPR,Master,advanced,day shift,29
+1362,physician,Houston,PALS ACLS BLS NRP,Master,entry-level,part-time,19
+1363,physician,New York,PALS NRP,Master,intermediate,day shift,26
+1364,physician,Chicago,PALS BLS NRP CPR ACLS,Master,intermediate,part-time,12
+1365,physician,Houston,PALS BLS NRP ACLS,Master,intermediate,night shift,6
+1366,physician,Chicago,PALS ACLS NRP,Master,entry-level,part-time,23
+1367,physician,Philadelphia,ACLS PALS CPR NRP,Master,intermediate,part-time,18
+1368,physician,Philadelphia,NRP CPR,Master,intermediate,day shift,2
+1369,physician,Los Angeles,BLS,Master,intermediate,day shift,14
+1370,physician,Philadelphia,ACLS,Master,advanced,day shift,7
+1371,physician,Los Angeles,NRP PALS CPR ACLS,Master,entry-level,day shift,17
+1372,physician,Philadelphia,NRP,Master,advanced,night shift,2
+1373,physician,Philadelphia,PALS ACLS CPR BLS,Master,intermediate,part-time,17
+1374,physician,Chicago,CPR BLS NRP,Master,entry-level,full-time,18
+1375,physician,Philadelphia,CPR,Master,entry-level,full-time,16
+1376,physician,Houston,BLS ACLS PALS,Master,entry-level,night shift,30
+1377,physician,Philadelphia,ACLS PALS,Master,entry-level,night shift,6
+1378,physician,New York,PALS,Master,entry-level,day shift,10
+1379,physician,Chicago,ACLS BLS NRP CPR,Master,advanced,day shift,5
+1380,physician,Chicago,ACLS PALS,Master,intermediate,part-time,13
+1381,physician,Chicago,PALS BLS NRP CPR ACLS,Master,advanced,night shift,22
+1382,physician,Philadelphia,ACLS BLS PALS NRP CPR,Master,advanced,night shift,27
+1383,physician,Los Angeles,BLS CPR PALS,Master,advanced,day shift,23
+1384,physician,Houston,BLS ACLS CPR,Master,entry-level,night shift,9
+1385,physician,New York,PALS,Master,advanced,full-time,11
+1386,physician,Chicago,ACLS NRP PALS BLS CPR,Master,advanced,full-time,24
+1387,physician,Philadelphia,ACLS,Master,advanced,full-time,11
+1388,physician,Los Angeles,PALS CPR NRP BLS,Master,entry-level,day shift,1
+1389,physician,New York,ACLS NRP,Master,advanced,part-time,19
+1390,physician,New York,BLS ACLS PALS,Master,advanced,part-time,24
+1391,physician,Chicago,ACLS,Master,entry-level,night shift,1
+1392,physician,Philadelphia,BLS PALS CPR NRP,Master,advanced,night shift,21
+1393,physician,Philadelphia,BLS CPR PALS NRP,Master,entry-level,part-time,19
+1394,physician,Los Angeles,NRP PALS CPR,Master,intermediate,day shift,22
+1395,physician,Houston,PALS NRP,Master,entry-level,night shift,13
+1396,physician,Los Angeles,PALS ACLS BLS NRP,Master,advanced,day shift,28
+1397,physician,Chicago,ACLS,Master,entry-level,day shift,6
+1398,physician,Los Angeles,ACLS BLS NRP CPR PALS,Master,intermediate,night shift,21
+1399,physician,Chicago,NRP CPR PALS BLS,Master,entry-level,night shift,29
+1400,physician,New York,PALS BLS CPR ACLS NRP,Master,advanced,full-time,25
+1401,physician,New York,BLS PALS NRP CPR,Master,advanced,day shift,1
+1402,physician,Houston,BLS,Master,intermediate,part-time,10
+1403,physician,Philadelphia,PALS NRP,Master,advanced,full-time,17
+1404,physician,Chicago,PALS NRP BLS CPR,Master,intermediate,full-time,24
+1405,physician,New York,NRP,Master,advanced,night shift,14
+1406,physician,Chicago,CPR NRP ACLS BLS,Master,entry-level,night shift,11
+1407,physician,Philadelphia,CPR NRP PALS ACLS,Master,advanced,night shift,20
+1408,physician,Los Angeles,NRP,Master,entry-level,full-time,4
+1409,physician,Los Angeles,ACLS CPR PALS BLS,Master,entry-level,night shift,18
+1410,physician,Philadelphia,ACLS NRP BLS,Master,entry-level,full-time,5
+1411,physician,Houston,NRP BLS CPR PALS ACLS,Master,entry-level,full-time,11
+1412,physician,Houston,ACLS PALS NRP CPR,Master,intermediate,full-time,6
+1413,physician,Los Angeles,BLS,Master,intermediate,part-time,26
+1414,physician,Chicago,PALS BLS,Master,advanced,part-time,24
+1415,physician,Houston,ACLS BLS CPR,Master,intermediate,full-time,22
+1416,physician,Philadelphia,BLS,Master,entry-level,part-time,19
+1417,physician,Houston,NRP,Master,advanced,full-time,12
+1418,physician,New York,CPR BLS,Master,intermediate,part-time,17
+1419,physician,Chicago,CPR PALS,Master,entry-level,part-time,3
+1420,physician,Philadelphia,ACLS NRP,Master,intermediate,part-time,15
+1421,physician,Houston,CPR PALS NRP BLS ACLS,Master,entry-level,part-time,28
+1422,physician,Chicago,BLS CPR,Master,advanced,full-time,5
+1423,physician,New York,PALS BLS,Master,intermediate,full-time,27
+1424,physician,Chicago,PALS CPR ACLS,Master,advanced,full-time,24
+1425,physician,Houston,ACLS BLS NRP,Master,advanced,part-time,26
+1426,physician,New York,PALS BLS CPR ACLS,Master,intermediate,full-time,11
+1427,physician,New York,ACLS NRP PALS BLS,Master,advanced,night shift,15
+1428,physician,Houston,BLS PALS CPR ACLS NRP,Master,entry-level,part-time,6
+1429,physician,Philadelphia,ACLS BLS,Master,intermediate,part-time,29
+1430,physician,New York,NRP CPR PALS BLS,Master,intermediate,part-time,27
+1431,physician,New York,CPR BLS NRP,Master,intermediate,full-time,1
+1432,physician,Houston,ACLS CPR BLS NRP PALS,Master,advanced,day shift,9
+1433,physician,New York,ACLS,Master,advanced,day shift,17
+1434,physician,New York,ACLS CPR NRP PALS,Master,entry-level,day shift,20
+1435,physician,Houston,ACLS PALS,Master,entry-level,night shift,19
+1436,physician,Los Angeles,ACLS NRP BLS,Master,entry-level,full-time,17
+1437,physician,Philadelphia,CPR NRP,Master,entry-level,day shift,10
+1438,physician,Chicago,CPR ACLS,Master,entry-level,full-time,28
+1439,physician,Los Angeles,NRP CPR BLS PALS,Master,entry-level,part-time,14
+1440,physician,Philadelphia,BLS,Master,intermediate,part-time,14
+1441,physician,Philadelphia,BLS,Master,entry-level,part-time,14
+1442,physician,Houston,CPR,Master,intermediate,part-time,12
+1443,physician,Chicago,PALS ACLS BLS NRP,Master,advanced,full-time,26
+1444,physician,Houston,BLS ACLS PALS,Master,intermediate,day shift,16
+1445,physician,New York,NRP ACLS,Master,advanced,full-time,19
+1446,physician,New York,PALS NRP,Master,intermediate,full-time,15
+1447,physician,Houston,PALS CPR,Master,entry-level,night shift,13
+1448,physician,Houston,ACLS CPR,Master,intermediate,night shift,30
+1449,physician,New York,CPR ACLS,Master,intermediate,night shift,1
+1450,physician,Philadelphia,NRP ACLS,Master,intermediate,full-time,11
+1451,physician,New York,PALS BLS,Master,entry-level,full-time,18
+1452,physician,Chicago,CPR PALS BLS NRP,Master,advanced,full-time,9
+1453,physician,Chicago,PALS,Master,entry-level,day shift,4
+1454,physician,Houston,CPR NRP BLS PALS,Master,entry-level,night shift,28
+1455,physician,New York,CPR BLS PALS NRP ACLS,Master,intermediate,day shift,28
+1456,physician,Philadelphia,BLS,Master,entry-level,day shift,3
+1457,physician,Los Angeles,CPR,Master,intermediate,part-time,4
+1458,physician,Houston,NRP,Master,intermediate,day shift,15
+1459,physician,Chicago,CPR BLS PALS,Master,intermediate,full-time,11
+1460,physician,Philadelphia,NRP CPR ACLS,Master,intermediate,full-time,17
+1461,physician,Houston,BLS CPR PALS NRP ACLS,Master,intermediate,full-time,4
+1462,physician,Chicago,ACLS BLS,Master,intermediate,full-time,19
+1463,physician,New York,PALS BLS ACLS NRP,Master,entry-level,night shift,15
+1464,physician,Chicago,CPR PALS ACLS BLS NRP,Master,entry-level,day shift,14
+1465,physician,New York,ACLS NRP PALS BLS,Master,advanced,full-time,16
+1466,physician,Chicago,ACLS PALS NRP,Master,advanced,full-time,24
+1467,physician,Chicago,CPR ACLS,Master,intermediate,part-time,1
+1468,physician,Houston,ACLS BLS,Master,entry-level,full-time,26
+1469,physician,Houston,CPR PALS BLS ACLS NRP,Master,intermediate,part-time,10
+1470,physician,Houston,BLS ACLS NRP PALS,Master,intermediate,night shift,25
+1471,physician,New York,ACLS CPR PALS NRP,Master,intermediate,full-time,13
+1472,physician,Los Angeles,CPR NRP ACLS BLS PALS,Master,advanced,part-time,29
+1473,physician,Los Angeles,ACLS CPR BLS PALS,Master,entry-level,night shift,30
+1474,physician,Houston,BLS PALS ACLS NRP CPR,Master,advanced,day shift,9
+1475,physician,Houston,NRP PALS CPR BLS ACLS,Master,entry-level,part-time,6
+1476,physician,Houston,ACLS CPR,Master,intermediate,day shift,5
+1477,physician,Los Angeles,PALS ACLS CPR NRP BLS,Master,advanced,day shift,4
+1478,physician,Houston,BLS CPR ACLS PALS NRP,Master,advanced,part-time,27
+1479,physician,New York,ACLS CPR,Master,advanced,part-time,7
+1480,physician,Chicago,NRP,Master,intermediate,day shift,28
+1481,physician,New York,NRP,Master,entry-level,full-time,10
+1482,physician,Chicago,ACLS PALS NRP BLS,Master,intermediate,night shift,25
+1483,physician,Los Angeles,PALS ACLS,Master,intermediate,full-time,23
+1484,physician,Chicago,BLS PALS CPR ACLS,Master,advanced,day shift,1
+1485,physician,New York,CPR BLS ACLS,Master,entry-level,night shift,18
+1486,physician,Philadelphia,NRP,Master,entry-level,night shift,15
+1487,physician,Houston,BLS NRP PALS,Master,entry-level,night shift,12
+1488,physician,Philadelphia,NRP PALS BLS CPR,Master,advanced,part-time,26
+1489,physician,New York,BLS PALS,Master,intermediate,part-time,10
+1490,physician,New York,PALS CPR ACLS NRP,Master,intermediate,full-time,1
+1491,physician,Los Angeles,ACLS PALS BLS CPR NRP,Master,entry-level,night shift,26
+1492,physician,Philadelphia,PALS ACLS BLS NRP CPR,Master,intermediate,part-time,5
+1493,physician,Houston,NRP CPR ACLS,Master,entry-level,part-time,17
+1494,physician,Chicago,BLS NRP CPR,Master,intermediate,night shift,12
+1495,physician,Houston,PALS CPR ACLS NRP,Master,advanced,night shift,8
+1496,physician,New York,NRP ACLS BLS CPR,Master,intermediate,day shift,22
+1497,physician,New York,BLS CPR NRP PALS ACLS,Master,entry-level,full-time,5
+1498,physician,New York,ACLS,Master,intermediate,full-time,18
+1499,physician,Houston,ACLS,Master,intermediate,day shift,7
+1500,physician,Los Angeles,PALS NRP,Master,intermediate,night shift,18
+1501,physician,Chicago,CPR ACLS,Master,entry-level,night shift,27
+1502,physician,Los Angeles,BLS CPR NRP PALS ACLS,Master,intermediate,day shift,4
+1503,physician,Chicago,ACLS PALS CPR NRP,Master,entry-level,full-time,11
+1504,physician,Chicago,ACLS BLS CPR NRP,Master,entry-level,night shift,3
+1505,physician,Chicago,ACLS CPR,Master,intermediate,night shift,22
+1506,physician,New York,PALS NRP BLS CPR ACLS,Master,intermediate,night shift,21
+1507,physician,Los Angeles,BLS,Master,advanced,full-time,22
+1508,physician,Philadelphia,ACLS CPR BLS PALS NRP,Master,advanced,part-time,15
+1509,physician,Houston,NRP,Master,advanced,part-time,20
+1510,physician,Philadelphia,BLS,Master,advanced,day shift,20
+1511,physician,Philadelphia,ACLS,Master,intermediate,part-time,27
+1512,physician,Philadelphia,BLS NRP ACLS CPR,Master,advanced,day shift,27
+1513,physician,Chicago,BLS ACLS CPR NRP PALS,Master,intermediate,day shift,3
+1514,physician,New York,CPR,Master,entry-level,full-time,8
+1515,physician,Philadelphia,ACLS PALS BLS NRP CPR,Master,advanced,part-time,12
+1516,physician,Chicago,ACLS BLS,Master,intermediate,full-time,25
+1517,physician,Houston,PALS BLS NRP,Master,intermediate,day shift,19
+1518,physician,Chicago,PALS BLS,Master,intermediate,night shift,9
+1519,physician,Houston,PALS NRP,Master,advanced,day shift,25
+1520,physician,Chicago,BLS NRP CPR ACLS PALS,Master,advanced,night shift,6
+1521,physician,New York,NRP PALS BLS,Master,advanced,part-time,15
+1522,physician,Chicago,ACLS BLS CPR PALS,Master,entry-level,part-time,29
+1523,physician,Houston,ACLS BLS PALS,Master,advanced,full-time,30
+1524,physician,Los Angeles,NRP ACLS CPR BLS PALS,Master,entry-level,full-time,18
+1525,physician,Los Angeles,CPR NRP PALS BLS ACLS,Master,advanced,full-time,6
+1526,physician,Chicago,CPR,Master,intermediate,full-time,9
+1527,physician,New York,ACLS BLS CPR,Master,advanced,day shift,1
+1528,physician,New York,BLS ACLS PALS,Master,intermediate,day shift,14
+1529,physician,Houston,PALS ACLS,Master,advanced,full-time,28
+1530,physician,Philadelphia,ACLS,Master,intermediate,part-time,26
+1531,physician,Philadelphia,PALS,Master,entry-level,night shift,24
+1532,physician,Los Angeles,ACLS,Master,intermediate,full-time,7
+1533,physician,Houston,CPR BLS PALS,Master,entry-level,full-time,8
+1534,physician,Philadelphia,NRP BLS CPR ACLS,Master,intermediate,full-time,13
+1535,physician,Chicago,ACLS,Master,intermediate,day shift,6
+1536,physician,Los Angeles,CPR,Master,intermediate,day shift,18
+1537,physician,Chicago,CPR ACLS NRP,Master,entry-level,full-time,22
+1538,physician,New York,CPR BLS ACLS PALS,Master,intermediate,part-time,21
+1539,physician,New York,BLS CPR PALS,Master,advanced,day shift,9
+1540,physician,Philadelphia,NRP,Master,advanced,night shift,24
+1541,physician,Philadelphia,PALS CPR NRP ACLS BLS,Master,intermediate,part-time,23
+1542,physician,New York,ACLS,Master,advanced,day shift,9
+1543,physician,Houston,PALS CPR,Master,entry-level,part-time,6
+1544,physician,Los Angeles,BLS PALS,Master,intermediate,part-time,18
+1545,physician,Los Angeles,NRP BLS,Master,intermediate,day shift,12
+1546,physician,Philadelphia,NRP,Master,advanced,full-time,13
+1547,physician,Philadelphia,ACLS NRP PALS,Master,advanced,full-time,13
+1548,physician,Chicago,NRP ACLS CPR BLS PALS,Master,intermediate,day shift,10
+1549,physician,Philadelphia,PALS CPR ACLS NRP BLS,Master,advanced,full-time,7
+1550,physician,New York,PALS ACLS NRP CPR,Master,entry-level,night shift,4
+1551,physician,Los Angeles,BLS NRP CPR PALS,Master,intermediate,day shift,14
+1552,physician,Philadelphia,NRP PALS,Master,intermediate,day shift,19
+1553,physician,New York,CPR,Master,advanced,night shift,3
+1554,physician,Los Angeles,BLS PALS ACLS NRP,Master,entry-level,part-time,8
+1555,physician,Philadelphia,ACLS BLS PALS CPR NRP,Master,advanced,part-time,8
+1556,physician,Philadelphia,CPR NRP PALS,Master,entry-level,day shift,21
+1557,physician,Houston,BLS NRP,Master,entry-level,full-time,27
+1558,physician,Philadelphia,ACLS BLS CPR PALS,Master,intermediate,full-time,19
+1559,physician,Los Angeles,PALS,Master,advanced,night shift,24
+1560,physician,New York,PALS ACLS NRP CPR,Master,entry-level,part-time,23
+1561,physician,Philadelphia,BLS PALS NRP CPR,Master,entry-level,night shift,4
+1562,physician,Philadelphia,PALS CPR,Master,advanced,night shift,6
+1563,physician,Houston,ACLS NRP CPR PALS BLS,Master,entry-level,full-time,13
+1564,physician,Philadelphia,BLS NRP,Master,entry-level,day shift,17
+1565,physician,Houston,BLS PALS CPR,Master,advanced,night shift,10
+1566,physician,Houston,NRP PALS ACLS BLS,Master,entry-level,part-time,23
+1567,physician,Philadelphia,BLS,Master,advanced,day shift,25
+1568,physician,New York,CPR ACLS BLS,Master,advanced,night shift,17
+1569,physician,Philadelphia,ACLS NRP BLS PALS,Master,intermediate,night shift,4
+1570,physician,Los Angeles,ACLS BLS NRP CPR,Master,entry-level,full-time,2
+1571,physician,Houston,BLS NRP PALS ACLS,Master,entry-level,full-time,7
+1572,physician,Philadelphia,ACLS,Master,entry-level,night shift,10
+1573,physician,Los Angeles,CPR PALS BLS NRP ACLS,Master,advanced,full-time,24
+1574,physician,New York,ACLS,Master,intermediate,day shift,10
+1575,physician,Houston,NRP CPR BLS ACLS,Master,advanced,day shift,13
+1576,physician,Chicago,PALS ACLS BLS CPR NRP,Master,entry-level,day shift,10
+1577,physician,Chicago,PALS NRP CPR,Master,entry-level,full-time,27
+1578,physician,Philadelphia,BLS,Master,advanced,full-time,2
+1579,physician,New York,CPR,Master,advanced,part-time,3
+1580,physician,Chicago,NRP ACLS PALS,Master,advanced,day shift,10
+1581,physician,Los Angeles,BLS,Master,intermediate,part-time,8
+1582,physician,Houston,BLS PALS ACLS,Master,intermediate,night shift,5
+1583,physician,Chicago,BLS,Master,entry-level,day shift,2
+1584,physician,Houston,CPR BLS NRP PALS,Master,advanced,part-time,15
+1585,physician,Philadelphia,CPR PALS NRP,Master,advanced,part-time,10
+1586,physician,Los Angeles,NRP,Master,entry-level,part-time,2
+1587,physician,Philadelphia,CPR,Master,advanced,part-time,21
+1588,physician,Chicago,PALS,Master,intermediate,night shift,5
+1589,physician,Houston,CPR PALS BLS,Master,advanced,day shift,27
+1590,physician,Houston,PALS CPR,Master,intermediate,full-time,1
+1591,physician,Philadelphia,ACLS BLS CPR NRP PALS,Master,advanced,part-time,5
+1592,physician,Chicago,NRP,Master,entry-level,night shift,2
+1593,physician,Philadelphia,PALS BLS CPR NRP ACLS,Master,entry-level,part-time,21
+1594,physician,Chicago,PALS BLS,Master,advanced,part-time,8
+1595,physician,Los Angeles,NRP BLS,Master,entry-level,part-time,26
+1596,physician,Philadelphia,CPR BLS NRP ACLS,Master,intermediate,part-time,5
+1597,physician,Chicago,PALS,Master,entry-level,night shift,1
+1598,physician,Houston,ACLS PALS BLS NRP CPR,Master,entry-level,day shift,11
+1599,physician,Philadelphia,BLS CPR ACLS,Master,entry-level,night shift,8
+1600,physician,Philadelphia,BLS PALS NRP,Master,advanced,night shift,19
+1601,physician,Chicago,ACLS NRP CPR,Master,advanced,day shift,13
+1602,physician,Philadelphia,PALS CPR NRP ACLS,Master,intermediate,night shift,27
+1603,physician,Chicago,PALS NRP BLS CPR ACLS,Master,advanced,part-time,24
+1604,physician,Chicago,CPR NRP PALS BLS ACLS,Master,intermediate,part-time,9
+1605,physician,New York,NRP PALS,Master,advanced,day shift,7
+1606,physician,Los Angeles,PALS BLS,Master,entry-level,day shift,3
+1607,physician,New York,BLS CPR PALS NRP,Master,advanced,full-time,16
+1608,physician,Los Angeles,CPR ACLS PALS BLS NRP,Master,entry-level,day shift,27
+1609,physician,Chicago,CPR BLS PALS ACLS,Master,entry-level,part-time,22
+1610,physician,Houston,NRP,Master,advanced,night shift,21
+1611,physician,Chicago,CPR BLS NRP,Master,entry-level,day shift,29
+1612,physician,Los Angeles,ACLS BLS PALS CPR,Master,entry-level,full-time,5
+1613,physician,Houston,BLS PALS NRP ACLS CPR,Master,advanced,part-time,2
+1614,physician,New York,BLS CPR NRP PALS ACLS,Master,entry-level,day shift,12
+1615,physician,Chicago,PALS CPR,Master,entry-level,day shift,4
+1616,physician,Los Angeles,BLS,Master,advanced,night shift,28
+1617,physician,New York,PALS CPR NRP ACLS,Master,advanced,night shift,10
+1618,physician,Houston,BLS CPR PALS NRP ACLS,Master,advanced,night shift,1
+1619,physician,Los Angeles,NRP,Master,intermediate,day shift,11
+1620,physician,Houston,ACLS PALS BLS CPR NRP,Master,advanced,full-time,23
+1621,physician,Los Angeles,PALS,Master,advanced,day shift,9
+1622,physician,Philadelphia,CPR ACLS NRP BLS PALS,Master,intermediate,day shift,29
+1623,physician,Chicago,NRP CPR,Master,intermediate,part-time,18
+1624,physician,Houston,NRP BLS CPR ACLS PALS,Master,intermediate,night shift,20
+1625,physician,Philadelphia,BLS CPR,Master,advanced,day shift,27
+1626,physician,Los Angeles,BLS,Master,intermediate,night shift,25
+1627,physician,New York,NRP ACLS,Master,advanced,part-time,28
+1628,physician,Chicago,BLS CPR PALS,Master,entry-level,night shift,10
+1629,physician,Houston,BLS PALS,Master,intermediate,full-time,11
+1630,physician,Houston,PALS NRP ACLS BLS,Master,advanced,part-time,24
+1631,physician,Chicago,PALS NRP BLS CPR ACLS,Master,intermediate,part-time,1
+1632,physician,Los Angeles,NRP BLS ACLS CPR PALS,Master,entry-level,part-time,30
+1633,physician,Houston,NRP CPR,Master,advanced,night shift,13
+1634,physician,Philadelphia,CPR BLS ACLS,Master,entry-level,day shift,20
+1635,physician,Houston,PALS NRP,Master,entry-level,part-time,26
+1636,physician,Chicago,CPR ACLS PALS BLS,Master,intermediate,part-time,17
+1637,physician,Chicago,PALS BLS ACLS,Master,entry-level,part-time,17
+1638,physician,Chicago,CPR,Master,entry-level,night shift,23
+1639,physician,Houston,PALS CPR,Master,entry-level,day shift,29
+1640,physician,Chicago,BLS NRP ACLS,Master,intermediate,part-time,11
+1641,physician,Philadelphia,BLS CPR ACLS NRP PALS,Master,advanced,day shift,14
+1642,physician,Houston,ACLS,Master,advanced,full-time,4
+1643,physician,New York,BLS PALS CPR NRP ACLS,Master,intermediate,full-time,16
+1644,physician,New York,CPR,Master,entry-level,night shift,30
+1645,physician,Chicago,BLS ACLS,Master,entry-level,full-time,1
+1646,physician,Philadelphia,BLS,Master,advanced,night shift,12
+1647,physician,Philadelphia,NRP ACLS,Master,entry-level,day shift,10
+1648,physician,Chicago,NRP CPR ACLS PALS BLS,Master,advanced,full-time,15
+1649,physician,New York,NRP ACLS BLS CPR PALS,Master,advanced,day shift,22
+1650,physician,Houston,BLS PALS ACLS NRP CPR,Master,entry-level,night shift,5
+1651,physician,New York,BLS,Master,advanced,part-time,10
+1652,physician,Chicago,PALS NRP CPR BLS ACLS,Master,intermediate,part-time,16
+1653,physician,New York,ACLS CPR PALS BLS,Master,intermediate,night shift,8
+1654,physician,Los Angeles,BLS CPR ACLS,Master,advanced,day shift,17
+1655,physician,Los Angeles,NRP ACLS,Master,advanced,day shift,12
+1656,physician,Houston,NRP CPR BLS PALS ACLS,Master,entry-level,night shift,29
+1657,physician,New York,PALS NRP,Master,advanced,part-time,5
+1658,physician,Philadelphia,ACLS BLS NRP,Master,entry-level,full-time,22
+1659,physician,Philadelphia,PALS NRP BLS CPR ACLS,Master,entry-level,part-time,26
+1660,physician,Houston,NRP ACLS PALS CPR,Master,entry-level,full-time,26
+1661,physician,Philadelphia,NRP ACLS,Master,intermediate,night shift,10
+1662,physician,Houston,BLS,Master,entry-level,full-time,5
+1663,physician,New York,PALS NRP CPR,Master,advanced,night shift,3
+1664,physician,Houston,PALS CPR NRP BLS ACLS,Master,advanced,full-time,9
+1665,physician,New York,ACLS PALS BLS NRP CPR,Master,intermediate,part-time,7
+1666,physician,Houston,ACLS CPR,Master,intermediate,night shift,7
+1667,physician,Philadelphia,ACLS CPR PALS,Master,entry-level,full-time,11
+1668,physician,Chicago,BLS NRP PALS,Master,advanced,day shift,15
+1669,physician,New York,NRP BLS CPR ACLS PALS,Master,advanced,full-time,30
+1670,physician,Philadelphia,NRP CPR,Master,advanced,night shift,29
+1671,physician,New York,CPR,Master,entry-level,part-time,16
+1672,physician,Philadelphia,NRP BLS,Master,entry-level,night shift,30
+1673,physician,New York,BLS,Master,advanced,night shift,7
+1674,physician,Chicago,PALS CPR BLS,Master,advanced,night shift,19
+1675,physician,New York,ACLS BLS CPR PALS,Master,advanced,night shift,18
+1676,physician,Los Angeles,PALS CPR ACLS BLS NRP,Master,intermediate,full-time,14
+1677,physician,Chicago,ACLS PALS CPR,Master,entry-level,part-time,18
+1678,physician,Philadelphia,BLS PALS,Master,intermediate,full-time,4
+1679,physician,Chicago,NRP PALS ACLS CPR BLS,Master,entry-level,full-time,22
+1680,physician,Los Angeles,BLS PALS NRP ACLS,Master,advanced,part-time,4
+1681,physician,Los Angeles,NRP,Master,intermediate,part-time,29
+1682,physician,Philadelphia,BLS CPR,Master,advanced,part-time,2
+1683,physician,Chicago,CPR PALS,Master,advanced,night shift,2
+1684,physician,Chicago,NRP PALS,Master,entry-level,night shift,13
+1685,physician,Philadelphia,NRP PALS,Master,entry-level,part-time,29
+1686,physician,Chicago,BLS CPR,Master,entry-level,night shift,3
+1687,physician,Philadelphia,ACLS PALS CPR,Master,advanced,night shift,21
+1688,physician,Los Angeles,PALS NRP ACLS,Master,advanced,full-time,18
+1689,physician,Los Angeles,ACLS BLS NRP CPR,Master,advanced,part-time,20
+1690,physician,Chicago,PALS ACLS BLS CPR NRP,Master,advanced,night shift,8
+1691,physician,Philadelphia,ACLS PALS NRP,Master,intermediate,night shift,13
+1692,physician,New York,NRP CPR,Master,intermediate,day shift,26
+1693,physician,Chicago,BLS CPR NRP ACLS PALS,Master,entry-level,night shift,9
+1694,physician,Los Angeles,CPR PALS,Master,advanced,full-time,24
+1695,physician,Philadelphia,NRP PALS CPR,Master,advanced,part-time,17
+1696,physician,Chicago,NRP ACLS CPR BLS,Master,intermediate,full-time,20
+1697,physician,Houston,CPR,Master,advanced,night shift,7
+1698,physician,Chicago,ACLS CPR BLS PALS NRP,Master,intermediate,day shift,25
+1699,physician,New York,PALS NRP,Master,intermediate,day shift,22
+1700,physician,Chicago,PALS CPR,Master,advanced,part-time,23
+1701,physician,New York,CPR BLS PALS NRP,Master,entry-level,day shift,18
+1702,physician,Philadelphia,BLS PALS ACLS NRP CPR,Master,entry-level,part-time,3
+1703,physician,Philadelphia,BLS PALS ACLS NRP CPR,Master,intermediate,part-time,12
+1704,physician,Los Angeles,ACLS,Master,entry-level,day shift,10
+1705,physician,Chicago,CPR PALS NRP,Master,advanced,part-time,3
+1706,physician,Houston,NRP ACLS,Master,entry-level,night shift,4
+1707,physician,New York,BLS PALS CPR NRP ACLS,Master,entry-level,day shift,24
+1708,physician,Philadelphia,CPR,Master,intermediate,full-time,23
+1709,physician,Chicago,BLS PALS CPR NRP ACLS,Master,entry-level,day shift,9
+1710,physician,Los Angeles,NRP CPR ACLS,Master,advanced,part-time,14
+1711,physician,New York,NRP BLS ACLS CPR,Master,intermediate,part-time,8
+1712,physician,Los Angeles,BLS CPR NRP ACLS PALS,Master,entry-level,full-time,17
+1713,physician,Chicago,ACLS CPR BLS PALS,Master,intermediate,night shift,27
+1714,physician,Chicago,NRP CPR PALS,Master,entry-level,part-time,24
+1715,physician,Chicago,ACLS NRP,Master,intermediate,night shift,4
+1716,physician,Philadelphia,ACLS CPR,Master,entry-level,full-time,23
+1717,physician,Philadelphia,NRP,Master,entry-level,part-time,29
+1718,physician,Chicago,BLS CPR ACLS,Master,intermediate,part-time,14
+1719,physician,New York,BLS NRP CPR,Master,advanced,day shift,16
+1720,physician,Houston,NRP CPR BLS PALS,Master,intermediate,part-time,17
+1721,physician,Los Angeles,BLS ACLS PALS CPR NRP,Master,entry-level,night shift,2
+1722,physician,Houston,ACLS,Master,intermediate,night shift,21
+1723,physician,Los Angeles,ACLS NRP CPR,Master,intermediate,day shift,16
+1724,physician,Chicago,BLS NRP,Master,intermediate,full-time,27
+1725,physician,Chicago,ACLS NRP PALS CPR BLS,Master,entry-level,night shift,23
+1726,physician,Houston,BLS ACLS CPR PALS NRP,Master,advanced,full-time,27
+1727,physician,Los Angeles,BLS CPR,Master,advanced,night shift,21
+1728,physician,New York,ACLS,Master,intermediate,day shift,29
+1729,physician,New York,ACLS BLS PALS,Master,advanced,day shift,30
+1730,physician,New York,NRP ACLS,Master,entry-level,full-time,6
+1731,physician,Los Angeles,NRP,Master,entry-level,day shift,3
+1732,physician,New York,NRP CPR BLS,Master,intermediate,day shift,15
+1733,physician,Houston,BLS PALS CPR NRP ACLS,Master,entry-level,full-time,18
+1734,physician,Chicago,ACLS NRP PALS,Master,advanced,night shift,15
+1735,physician,Los Angeles,CPR PALS ACLS BLS NRP,Master,intermediate,full-time,21
+1736,physician,Houston,CPR NRP BLS ACLS,Master,entry-level,day shift,28
+1737,physician,New York,BLS NRP ACLS PALS CPR,Master,advanced,day shift,26
+1738,physician,Los Angeles,BLS NRP ACLS,Master,intermediate,part-time,24
+1739,physician,Houston,NRP,Master,entry-level,full-time,13
+1740,physician,New York,NRP ACLS PALS,Master,entry-level,day shift,24
+1741,physician,Philadelphia,ACLS BLS NRP CPR PALS,Master,entry-level,full-time,3
+1742,physician,Philadelphia,CPR NRP ACLS,Master,advanced,full-time,5
+1743,physician,New York,CPR,Master,advanced,part-time,27
+1744,physician,Philadelphia,ACLS BLS CPR PALS,Master,entry-level,full-time,1
+1745,physician,Philadelphia,ACLS NRP BLS,Master,entry-level,full-time,16
+1746,physician,Houston,BLS PALS ACLS NRP,Master,entry-level,day shift,1
+1747,physician,Houston,NRP PALS BLS ACLS CPR,Master,intermediate,part-time,25
+1748,physician,Chicago,CPR,Master,advanced,night shift,10
+1749,physician,Houston,ACLS PALS NRP CPR,Master,entry-level,night shift,16
+1750,physician,New York,BLS CPR PALS NRP,Master,entry-level,part-time,16
+1751,physician,Los Angeles,BLS PALS,Master,entry-level,day shift,10
+1752,physician,Houston,CPR NRP,Master,intermediate,night shift,13
+1753,physician,Chicago,NRP BLS PALS CPR ACLS,Master,advanced,part-time,30
+1754,physician,Chicago,PALS NRP ACLS,Master,intermediate,full-time,7
+1755,physician,Philadelphia,NRP PALS,Master,advanced,full-time,27
+1756,physician,Los Angeles,BLS,Master,entry-level,part-time,28
+1757,physician,New York,PALS,Master,advanced,day shift,29
+1758,physician,Chicago,CPR NRP,Master,entry-level,night shift,16
+1759,physician,Los Angeles,NRP ACLS PALS,Master,entry-level,night shift,5
+1760,physician,Los Angeles,PALS BLS ACLS NRP,Master,intermediate,night shift,11
+1761,physician,Philadelphia,NRP ACLS CPR BLS PALS,Master,advanced,full-time,10
+1762,physician,Philadelphia,BLS PALS,Master,intermediate,full-time,10
+1763,physician,Los Angeles,PALS NRP BLS ACLS,Master,entry-level,part-time,20
+1764,physician,Houston,NRP CPR ACLS BLS PALS,Master,entry-level,full-time,18
+1765,physician,Chicago,CPR BLS PALS NRP ACLS,Master,advanced,full-time,15
+1766,physician,Philadelphia,PALS NRP ACLS BLS,Master,entry-level,night shift,28
+1767,physician,New York,PALS BLS ACLS,Master,entry-level,night shift,16
+1768,physician,Los Angeles,CPR PALS ACLS NRP BLS,Master,advanced,night shift,29
+1769,physician,New York,ACLS,Master,advanced,part-time,16
+1770,physician,New York,ACLS,Master,intermediate,day shift,22
+1771,physician,Chicago,CPR PALS BLS NRP ACLS,Master,entry-level,part-time,29
+1772,physician,New York,NRP ACLS CPR BLS PALS,Master,intermediate,full-time,11
+1773,physician,Philadelphia,ACLS PALS CPR,Master,intermediate,day shift,2
+1774,physician,New York,NRP BLS CPR PALS ACLS,Master,entry-level,part-time,5
+1775,physician,New York,BLS PALS ACLS NRP CPR,Master,advanced,part-time,19
+1776,physician,Houston,NRP BLS PALS ACLS,Master,entry-level,night shift,20
+1777,physician,New York,ACLS,Master,entry-level,full-time,9
+1778,physician,Houston,BLS PALS NRP,Master,intermediate,day shift,5
+1779,physician,New York,PALS ACLS CPR BLS NRP,Master,intermediate,full-time,7
+1780,physician,Houston,CPR,Master,intermediate,full-time,18
+1781,physician,Chicago,NRP BLS ACLS,Master,entry-level,day shift,19
+1782,physician,Chicago,BLS CPR,Master,advanced,part-time,29
+1783,physician,New York,NRP ACLS PALS CPR BLS,Master,entry-level,day shift,10
+1784,physician,Houston,PALS NRP ACLS,Master,advanced,part-time,29
+1785,physician,Philadelphia,NRP CPR BLS,Master,intermediate,full-time,24
+1786,physician,Houston,PALS,Master,entry-level,full-time,16
+1787,physician,New York,BLS PALS ACLS,Master,entry-level,full-time,23
+1788,physician,New York,PALS,Master,entry-level,full-time,29
+1789,physician,Los Angeles,CPR PALS BLS,Master,entry-level,day shift,24
+1790,physician,Philadelphia,ACLS,Master,entry-level,day shift,7
+1791,physician,Houston,ACLS,Master,intermediate,night shift,18
+1792,physician,Philadelphia,BLS CPR NRP,Master,entry-level,full-time,1
+1793,physician,New York,CPR PALS,Master,advanced,full-time,26
+1794,physician,New York,NRP ACLS CPR BLS,Master,advanced,full-time,5
+1795,physician,Houston,NRP,Master,advanced,day shift,13
+1796,physician,Philadelphia,NRP,Master,advanced,night shift,29
+1797,physician,Houston,BLS ACLS PALS NRP CPR,Master,advanced,night shift,2
+1798,physician,Chicago,ACLS,Master,advanced,day shift,29
+1799,physician,New York,BLS NRP,Master,intermediate,full-time,7
+1800,physician,Los Angeles,ACLS,Master,advanced,day shift,11
+1801,physician,Philadelphia,ACLS,Master,advanced,part-time,12
+1802,physician,Houston,CPR,Master,intermediate,full-time,12
+1803,physician,Chicago,CPR BLS,Master,entry-level,night shift,14
+1804,physician,Los Angeles,PALS CPR,Master,intermediate,part-time,9
+1805,physician,Los Angeles,ACLS CPR NRP PALS BLS,Master,advanced,day shift,22
+1806,physician,Philadelphia,NRP BLS PALS,Master,entry-level,full-time,5
+1807,physician,New York,NRP BLS ACLS CPR PALS,Master,advanced,full-time,30
+1808,physician,Los Angeles,ACLS,Master,advanced,day shift,29
+1809,physician,Chicago,ACLS NRP BLS,Master,advanced,full-time,3
+1810,physician,Houston,NRP BLS CPR,Master,entry-level,day shift,23
+1811,physician,Chicago,BLS,Master,entry-level,part-time,29
+1812,physician,Houston,CPR BLS PALS ACLS NRP,Master,entry-level,night shift,22
+1813,physician,Chicago,BLS CPR PALS,Master,entry-level,full-time,3
+1814,physician,Houston,CPR NRP,Master,advanced,night shift,24
+1815,physician,Chicago,CPR BLS ACLS NRP PALS,Master,advanced,part-time,28
+1816,physician,Houston,ACLS CPR PALS BLS NRP,Master,intermediate,night shift,7
+1817,physician,Los Angeles,CPR ACLS,Master,entry-level,night shift,23
+1818,physician,Philadelphia,PALS CPR,Master,advanced,night shift,9
+1819,physician,Chicago,BLS ACLS,Master,entry-level,part-time,19
+1820,physician,Philadelphia,NRP PALS CPR BLS,Master,advanced,night shift,6
+1821,physician,New York,CPR BLS NRP PALS ACLS,Master,entry-level,full-time,2
+1822,physician,Los Angeles,CPR BLS,Master,intermediate,day shift,5
+1823,physician,Houston,ACLS BLS,Master,advanced,full-time,11
+1824,physician,Los Angeles,BLS NRP CPR ACLS,Master,intermediate,part-time,19
+1825,physician,Philadelphia,NRP PALS CPR,Master,advanced,full-time,7
+1826,physician,Los Angeles,CPR ACLS BLS PALS,Master,advanced,full-time,16
+1827,physician,Chicago,CPR ACLS PALS BLS NRP,Master,advanced,part-time,26
+1828,physician,Chicago,ACLS BLS PALS,Master,entry-level,full-time,12
+1829,physician,Chicago,PALS NRP ACLS BLS CPR,Master,entry-level,day shift,5
+1830,physician,Houston,ACLS NRP,Master,advanced,night shift,20
+1831,physician,Houston,ACLS PALS BLS CPR,Master,advanced,day shift,13
+1832,physician,Philadelphia,ACLS BLS NRP,Master,intermediate,night shift,18
+1833,physician,Los Angeles,BLS,Master,advanced,night shift,20
+1834,physician,New York,NRP ACLS PALS CPR,Master,advanced,part-time,16
+1835,physician,Philadelphia,ACLS,Master,entry-level,day shift,27
+1836,physician,Los Angeles,PALS,Master,entry-level,night shift,19
+1837,physician,Chicago,ACLS CPR NRP BLS,Master,entry-level,night shift,26
+1838,physician,Philadelphia,CPR ACLS,Master,advanced,day shift,6
+1839,physician,Los Angeles,PALS ACLS,Master,advanced,day shift,8
+1840,physician,Los Angeles,BLS NRP PALS,Master,entry-level,full-time,12
+1841,physician,Philadelphia,BLS NRP,Master,advanced,full-time,16
+1842,physician,Philadelphia,CPR PALS BLS ACLS,Master,intermediate,day shift,17
+1843,physician,Los Angeles,NRP PALS,Master,intermediate,full-time,19
+1844,physician,Los Angeles,PALS CPR,Master,advanced,part-time,5
+1845,physician,Houston,PALS CPR ACLS BLS,Master,intermediate,night shift,5
+1846,physician,Philadelphia,PALS CPR,Master,advanced,full-time,21
+1847,physician,New York,PALS CPR,Master,entry-level,part-time,9
+1848,physician,New York,NRP CPR,Master,entry-level,day shift,15
+1849,physician,Philadelphia,PALS,Master,entry-level,full-time,18
+1850,physician,Chicago,BLS ACLS PALS,Master,entry-level,part-time,4
+1851,physician,Houston,NRP CPR BLS ACLS,Master,intermediate,full-time,29
+1852,physician,Los Angeles,BLS PALS ACLS,Master,entry-level,night shift,6
+1853,physician,New York,ACLS PALS CPR BLS NRP,Master,advanced,part-time,4
+1854,physician,Chicago,PALS BLS NRP CPR,Master,intermediate,day shift,7
+1855,physician,New York,PALS,Master,intermediate,day shift,29
+1856,physician,Houston,PALS NRP CPR BLS ACLS,Master,intermediate,night shift,24
+1857,physician,Houston,PALS,Master,advanced,full-time,26
+1858,physician,Philadelphia,NRP ACLS CPR,Master,advanced,full-time,1
+1859,physician,New York,NRP PALS CPR ACLS,Master,advanced,full-time,28
+1860,physician,Los Angeles,BLS NRP PALS ACLS CPR,Master,advanced,part-time,18
+1861,physician,Houston,NRP BLS PALS,Master,advanced,full-time,26
+1862,physician,Houston,PALS,Master,advanced,part-time,7
+1863,physician,Philadelphia,ACLS CPR PALS,Master,entry-level,full-time,8
+1864,physician,Los Angeles,PALS NRP,Master,intermediate,part-time,1
+1865,physician,Philadelphia,BLS ACLS NRP,Master,advanced,full-time,28
+1866,physician,Houston,CPR BLS,Master,entry-level,full-time,2
+1867,physician,Chicago,CPR NRP BLS PALS ACLS,Master,advanced,night shift,5
+1868,physician,Philadelphia,CPR BLS PALS ACLS,Master,entry-level,night shift,23
+1869,physician,Chicago,ACLS CPR,Master,entry-level,full-time,28
+1870,physician,Los Angeles,PALS,Master,advanced,part-time,10
+1871,physician,Chicago,CPR NRP PALS ACLS BLS,Master,intermediate,part-time,1
+1872,physician,Houston,NRP,Master,entry-level,night shift,29
+1873,physician,Chicago,ACLS PALS BLS CPR NRP,Master,entry-level,full-time,22
+1874,physician,Los Angeles,NRP,Master,intermediate,part-time,4
+1875,physician,Philadelphia,NRP ACLS,Master,advanced,day shift,21
+1876,physician,Houston,PALS NRP CPR BLS ACLS,Master,advanced,day shift,22
+1877,physician,Philadelphia,NRP PALS BLS CPR ACLS,Master,entry-level,full-time,21
+1878,physician,Philadelphia,PALS CPR,Master,entry-level,day shift,9
+1879,physician,Los Angeles,BLS CPR,Master,advanced,day shift,11
+1880,physician,Houston,ACLS,Master,entry-level,full-time,17
+1881,physician,Los Angeles,NRP PALS ACLS CPR BLS,Master,advanced,full-time,27
+1882,physician,New York,BLS,Master,intermediate,day shift,10
+1883,physician,Philadelphia,PALS BLS,Master,advanced,part-time,14
+1884,physician,Philadelphia,BLS ACLS NRP,Master,intermediate,full-time,7
+1885,physician,Philadelphia,NRP BLS,Master,entry-level,full-time,23
+1886,physician,Los Angeles,ACLS PALS,Master,entry-level,full-time,16
+1887,physician,Houston,ACLS BLS PALS,Master,intermediate,night shift,20
+1888,physician,Los Angeles,NRP PALS BLS,Master,entry-level,part-time,2
+1889,physician,New York,ACLS PALS CPR BLS,Master,advanced,full-time,23
+1890,physician,Houston,ACLS CPR PALS,Master,intermediate,night shift,9
+1891,physician,New York,ACLS NRP CPR PALS BLS,Master,advanced,full-time,4
+1892,physician,Los Angeles,NRP PALS,Master,entry-level,night shift,5
+1893,physician,Los Angeles,PALS CPR BLS NRP ACLS,Master,advanced,night shift,30
+1894,physician,Los Angeles,BLS NRP,Master,intermediate,night shift,26
+1895,physician,Philadelphia,PALS CPR NRP,Master,entry-level,night shift,17
+1896,physician,Chicago,BLS ACLS CPR NRP PALS,Master,intermediate,part-time,9
+1897,physician,Houston,NRP CPR BLS ACLS,Master,intermediate,part-time,4
+1898,physician,Los Angeles,BLS ACLS CPR,Master,intermediate,night shift,24
+1899,physician,New York,ACLS NRP BLS PALS,Master,advanced,part-time,30
+1900,physician,Philadelphia,CPR,Master,advanced,full-time,11
+1901,physician,Los Angeles,PALS CPR BLS ACLS NRP,Master,advanced,part-time,21
+1902,physician,Chicago,PALS NRP CPR,Master,intermediate,part-time,22
+1903,physician,Chicago,BLS,Master,advanced,night shift,5
+1904,physician,Philadelphia,PALS ACLS NRP,Master,advanced,day shift,12
+1905,physician,Philadelphia,ACLS BLS PALS NRP,Master,advanced,full-time,29
+1906,physician,Philadelphia,NRP ACLS BLS,Master,advanced,part-time,25
+1907,physician,Philadelphia,ACLS PALS NRP CPR,Master,advanced,full-time,5
+1908,physician,Houston,ACLS PALS CPR,Master,entry-level,full-time,8
+1909,physician,Houston,BLS NRP ACLS PALS,Master,advanced,full-time,23
+1910,physician,Houston,NRP,Master,entry-level,full-time,15
+1911,physician,Los Angeles,NRP,Master,intermediate,day shift,29
+1912,physician,Los Angeles,PALS BLS CPR,Master,intermediate,day shift,11
+1913,physician,Houston,BLS ACLS CPR,Master,entry-level,day shift,4
+1914,physician,Chicago,CPR PALS NRP,Master,entry-level,day shift,22
+1915,physician,New York,NRP ACLS PALS,Master,advanced,day shift,24
+1916,physician,Chicago,PALS CPR ACLS BLS NRP,Master,entry-level,part-time,19
+1917,physician,Chicago,ACLS,Master,entry-level,day shift,15
+1918,physician,Houston,BLS NRP,Master,intermediate,day shift,4
+1919,physician,Houston,BLS CPR ACLS NRP,Master,intermediate,night shift,18
+1920,physician,Chicago,BLS CPR PALS NRP ACLS,Master,advanced,night shift,25
+1921,physician,Houston,PALS BLS NRP,Master,advanced,night shift,9
+1922,physician,Chicago,NRP CPR ACLS,Master,entry-level,full-time,5
+1923,physician,Houston,ACLS NRP CPR BLS,Master,entry-level,night shift,11
+1924,physician,Los Angeles,PALS CPR ACLS NRP,Master,advanced,night shift,26
+1925,physician,Chicago,NRP BLS ACLS PALS CPR,Master,intermediate,full-time,23
+1926,physician,Philadelphia,BLS,Master,advanced,night shift,16
+1927,physician,Los Angeles,ACLS CPR PALS BLS NRP,Master,entry-level,part-time,25
+1928,physician,Philadelphia,NRP PALS CPR ACLS,Master,advanced,full-time,9
+1929,physician,Chicago,BLS,Master,advanced,night shift,28
+1930,physician,Los Angeles,ACLS CPR PALS BLS,Master,entry-level,part-time,18
+1931,physician,Houston,PALS CPR NRP,Master,advanced,full-time,18
+1932,physician,Houston,CPR PALS,Master,entry-level,night shift,10
+1933,physician,New York,CPR ACLS BLS PALS,Master,entry-level,night shift,5
+1934,physician,New York,BLS ACLS NRP,Master,intermediate,part-time,21
+1935,physician,Houston,CPR PALS ACLS NRP,Master,advanced,part-time,19
+1936,physician,New York,PALS NRP BLS CPR,Master,intermediate,part-time,29
+1937,physician,Chicago,CPR PALS NRP BLS ACLS,Master,intermediate,day shift,18
+1938,physician,Los Angeles,CPR,Master,intermediate,part-time,24
+1939,physician,Chicago,CPR ACLS,Master,advanced,night shift,29
+1940,physician,Philadelphia,CPR,Master,advanced,part-time,10
+1941,physician,New York,NRP,Master,intermediate,day shift,16
+1942,physician,Chicago,NRP CPR ACLS,Master,intermediate,day shift,22
+1943,physician,Philadelphia,NRP PALS ACLS CPR,Master,intermediate,night shift,1
+1944,physician,Los Angeles,PALS NRP,Master,entry-level,part-time,2
+1945,physician,Los Angeles,PALS CPR ACLS NRP,Master,entry-level,night shift,10
+1946,physician,New York,PALS ACLS NRP CPR,Master,intermediate,night shift,10
+1947,physician,Chicago,CPR,Master,entry-level,full-time,24
+1948,physician,Los Angeles,CPR ACLS NRP,Master,intermediate,day shift,5
+1949,physician,Philadelphia,ACLS BLS PALS,Master,entry-level,full-time,1
+1950,physician,New York,BLS,Master,advanced,full-time,27
+1951,physician,Philadelphia,CPR,Master,entry-level,full-time,21
+1952,physician,Chicago,CPR ACLS BLS PALS NRP,Master,entry-level,day shift,22
+1953,physician,Houston,ACLS,Master,intermediate,part-time,25
+1954,physician,Los Angeles,NRP ACLS,Master,advanced,part-time,4
+1955,physician,Philadelphia,CPR BLS ACLS,Master,advanced,night shift,8
+1956,physician,Chicago,NRP ACLS CPR BLS PALS,Master,entry-level,part-time,26
+1957,physician,Philadelphia,BLS PALS ACLS NRP,Master,intermediate,full-time,2
+1958,physician,Chicago,PALS NRP ACLS,Master,entry-level,full-time,27
+1959,physician,New York,NRP PALS CPR ACLS,Master,entry-level,part-time,19
+1960,physician,Philadelphia,CPR NRP PALS,Master,intermediate,night shift,22
+1961,physician,New York,NRP PALS CPR BLS,Master,intermediate,day shift,3
+1962,physician,Los Angeles,PALS NRP,Master,intermediate,night shift,6
+1963,physician,Los Angeles,ACLS PALS NRP BLS CPR,Master,entry-level,full-time,17
+1964,physician,Houston,BLS CPR NRP,Master,intermediate,part-time,27
+1965,physician,New York,BLS CPR NRP,Master,entry-level,night shift,25
+1966,physician,New York,ACLS BLS NRP CPR PALS,Master,intermediate,day shift,20
+1967,physician,New York,CPR BLS NRP PALS ACLS,Master,intermediate,night shift,15
+1968,physician,Chicago,BLS CPR ACLS,Master,intermediate,day shift,29
+1969,physician,Houston,PALS ACLS,Master,advanced,full-time,24
+1970,physician,Chicago,PALS CPR BLS ACLS NRP,Master,entry-level,day shift,12
+1971,physician,Philadelphia,ACLS BLS NRP PALS,Master,entry-level,day shift,23
+1972,physician,Los Angeles,BLS CPR PALS NRP ACLS,Master,intermediate,full-time,15
+1973,physician,New York,PALS NRP CPR ACLS BLS,Master,entry-level,part-time,21
+1974,physician,Los Angeles,BLS PALS,Master,intermediate,day shift,20
+1975,physician,Los Angeles,ACLS,Master,advanced,full-time,18
+1976,physician,New York,ACLS PALS BLS,Master,advanced,night shift,5
+1977,physician,Chicago,ACLS CPR PALS NRP BLS,Master,entry-level,day shift,5
+1978,physician,Houston,ACLS NRP PALS BLS CPR,Master,entry-level,part-time,14
+1979,physician,Chicago,BLS NRP,Master,intermediate,full-time,28
+1980,physician,New York,BLS PALS NRP CPR,Master,intermediate,full-time,29
+1981,physician,Philadelphia,NRP,Master,advanced,day shift,10
+1982,physician,Philadelphia,BLS ACLS NRP PALS CPR,Master,entry-level,day shift,23
+1983,physician,Chicago,ACLS NRP PALS BLS CPR,Master,intermediate,part-time,17
+1984,physician,Philadelphia,ACLS NRP PALS CPR,Master,intermediate,part-time,3
+1985,physician,Los Angeles,BLS ACLS,Master,advanced,day shift,30
+1986,physician,Houston,PALS CPR NRP BLS,Master,intermediate,day shift,22
+1987,physician,Chicago,NRP BLS CPR,Master,intermediate,part-time,29
+1988,physician,New York,BLS,Master,entry-level,full-time,20
+1989,physician,Houston,NRP BLS,Master,intermediate,part-time,18
+1990,physician,Houston,NRP PALS CPR,Master,entry-level,full-time,24
+1991,physician,Los Angeles,ACLS PALS CPR,Master,intermediate,day shift,23
+1992,physician,New York,CPR,Master,advanced,day shift,1
+1993,physician,New York,CPR ACLS PALS,Master,advanced,full-time,12
+1994,physician,Houston,PALS NRP ACLS CPR BLS,Master,entry-level,night shift,9
+1995,physician,Los Angeles,PALS BLS,Master,entry-level,day shift,24
+1996,physician,Houston,BLS CPR ACLS,Master,entry-level,day shift,12
+1997,physician,Houston,NRP BLS ACLS,Master,entry-level,day shift,16
+1998,physician,New York,PALS NRP CPR ACLS BLS,Master,entry-level,night shift,24
+1999,physician,Chicago,ACLS CPR BLS PALS,Master,advanced,day shift,26
+2000,physician,Philadelphia,BLS CPR ACLS PALS NRP,Master,intermediate,part-time,14
